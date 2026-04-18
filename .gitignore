@@ -1,4 +1,7 @@
 .DS_Store
+.ipynb_checkpoints/
+*.pyc
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
