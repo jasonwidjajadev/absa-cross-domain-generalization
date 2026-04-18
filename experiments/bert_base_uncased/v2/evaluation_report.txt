@@ -1,0 +1,14 @@
+BERT ABSA — Evaluation on Combined Test Set
+============================================================
+
+              precision    recall  f1-score   support
+
+    negative     0.6933    0.7820    0.7350       133
+     neutral     0.5347    0.5878    0.5600       131
+    positive     0.9183    0.8548    0.8854       434
+
+    accuracy                         0.7908       698
+   macro avg     0.7155    0.7415    0.7268       698
+weighted avg     0.8035    0.7908    0.7957       698
+
+Macro F1 : 0.7268

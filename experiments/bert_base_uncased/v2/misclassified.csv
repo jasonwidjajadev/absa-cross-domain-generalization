@@ -1,0 +1,161 @@
+sentence_id,text,target,polarity,label,predicted,predicted_label,correct
+6,Order the Tortilla Soup,Tortilla Soup,positive,2,neutral,1,False
+959,"Watch out for the wood flooring on the way to the restrooms, it ramps up and back down again right by the end of the bar.",wood flooring,neutral,1,positive,2,False
+242,Purse Hooks Under the Bar,purse hooks,positive,2,neutral,1,False
+1860,"Burger, curry, cheese plate...it's all good here.","Burger, curry, cheese plate",positive,2,neutral,1,False
+1841,"Great food, more of a family atmosphere than the other locals.  Looks like a fun place to watch a game, but there is no sound on the tvs.",family atmosphere,positive,2,negative,0,False
+1723,Strawberry pie to go!,Strawberry pie,neutral,1,positive,2,False
+868,"BBQ hits Oak
+Wafting scent of hickory 
+So good you will SQUEAL
+
+#NOLA_Haiku #Haiku
+#SquealBBQ #NOLAEats
+#NOLABBQ #Squeal",Wafting scent of hickory,neutral,1,positive,2,False
+1699,"Overpriced. It's fine, but you can get better Mexican and margaritas elsewhere for a smaller bill and little wait time.",wait time,positive,2,negative,0,False
+1010,I had a lobster roll to go. Seems pricy but was great. New location nice,lobster roll,positive,2,neutral,1,False
+1518,"If Barbara's Downfall is available on the daiquiri menu, order it. You won't regret it.",daiquiri menu,neutral,1,positive,2,False
+1576,"Note:  The lobster roll is now $9.95 due to ""increased cost"".",increased cost,negative,0,neutral,1,False
+1543,Excellent lunch and thoroughly emjoyed food and ambiance!,food,neutral,1,positive,2,False
+1021,"Okay burger place. Seemed very promising. 
+Overpriced burgers and okay service.",service,neutral,1,negative,0,False
+1689,Short wait tonight.,wait,positive,2,negative,0,False
+341,The Friday crowd at 7 is pretty heavy. Try to come early because Happy hour ends at 7.,Happy hour,neutral,1,negative,0,False
+612,"I got the last Mad Hopper on cask! Good for me, bad for you...",Mad Hopper on cask,positive,2,negative,0,False
+853,Clam chowder was good; other stuff--not so much.  No dessert.,dessert,neutral,1,negative,0,False
+21,This place had great coffee but the owner sold it so it not there anymore.,owner sold the place,neutral,1,negative,0,False
+1118,"Be sure to check price for cold brew nitro, or you're in for a scary surprise.",cold brew nitro,neutral,1,negative,0,False
+1248,Leslie is a great server. No kids menu but they love the bunny bites and fried artichokes!,kids menu,neutral,1,negative,0,False
+1852,Chips and salsa is really good.  The salsa is spicy,salsa,neutral,1,positive,2,False
+330,"Learned the hard way, closed on Mondays.",closed on Mondays,neutral,1,negative,0,False
+918,Finally we're seated for dinner....,seated,neutral,1,positive,2,False
+947,"Great place that is open until 6pm to ship from. A lot of people don't know this but that also offer USPS mail so when the post office is slammed busy at lunch, come here. Same rates and way friendlier staff!",rates,neutral,1,positive,2,False
+1770,Use your Costco card for discounts on rentals and join Fastbreak to save time and bypass the counter,Costco card,positive,2,neutral,1,False
+1478,Felt jipped by the quality of the food. Other Zea's locations like Baton Rouge and Clearview are significantly better.,quality of the food,negative,0,positive,2,False
+1869,"no beer, stick to the shack outside",beer,negative,0,neutral,1,False
+1848,"Just used GrubHub for a delivery. Food took over an hour and a half to be delivered, sauce on pasta was supposed to be on side, food leaking from containers, no utensils.
+I asked for a few sides and got none.
+Buh bye, Little Italy.",GrubHub,neutral,1,negative,0,False
+1511,"Valet parking is listed @ 28 $ but expect to pay more for your truck. Eric was the valet attendee and was pleasant and the help at the desk should be a little more exuberant in my opinion. (This is new orleans)                   The room is small but eloquent however is missing some functionality of fridge,  microwave and laundry services (no service on weekends)    if you are staying short term and taking public transportation this place is great for a few days.",Valet parking,negative,0,neutral,1,False
+685,They always want to sit everyone by the windows where the rest of the restaurant is usually pretty empty.  Kinda annoying. But I've never complained.,empty,neutral,1,negative,0,False
+1590,They take quarters!!!!,take quarters,neutral,1,positive,2,False
+1318,go to Applebee's and ask for Keiva!!! she's the best!!! she has some Doritos,Keiva,positive,2,neutral,1,False
+1591,Check out the lent specials they are offering with Shrimp,lent specials,positive,2,neutral,1,False
+1481,"Get spinach before lettuce, you get more of both veggies.",veggies,positive,2,neutral,1,False
+235,Everything came out so hot & fresh! Get the corn,corn,positive,2,neutral,1,False
+1198,"Steaming buffet trays
+Foods from all-corners of globe
+With Bromo chaser
+
+#Haiku #NOLA_Haiku
+#EastBuffet",Foods,neutral,1,positive,2,False
+1065,"Charbroiled oysters - amazing! Everything else-um, very industrial. Great service. Blackened catch, tired baked potato, flacid green beans.",service,positive,2,negative,0,False
+1289,No alcohol right now! They're renewing their liquor license and should be back to the full adult beverage menu by the end of the month.,adult beverage menu,neutral,1,positive,2,False
+175,Spicy tofu = AMAZING. Pancakes are nothing special - dont get them,pancakes,negative,0,neutral,1,False
+589,"Smells like amazing coffee inside, cutest coffee cafe with attractive seating. Not good for a big group though",attractive seating,positive,2,negative,0,False
+423,The wifi is better than the food....,food,negative,0,neutral,1,False
+628,"Ask for your food in separate containers or they will mix them together, double check it before you leave",food,negative,0,neutral,1,False
+923,"Char-grilled oysters are a must, esp. when the Acme lines are ridiculous",Char-grilled oysters,neutral,1,positive,2,False
+596,Order the Tachos...don't ask questions!,Tachos,positive,2,neutral,1,False
+587,It's fairly small so get there early on the weekends. And try their iced chai!,small,neutral,1,negative,0,False
+125,They have glass tumblers for self-service water!,glass tumblers for self-service water,positive,2,neutral,1,False
+497,Ice coffee hazelnut with whip cream is the bomb,Ice coffee hazelnut with whip cream,positive,2,neutral,1,False
+1368,Try the tomato soup. Now.,tomato soup,neutral,1,positive,2,False
+322,The earlier the better. They are open on Sunday's,opening hours,neutral,1,positive,2,False
+875,Wonderful atmosphere. Hard to chose from the many offerings on the menu.,many offerings on the menu,neutral,1,negative,0,False
+961,Watch for hairballs in the pool.,pool,negative,0,neutral,1,False
+863,Some of the nail technicians are alright..but if you get jimmy he does the best job cuz I always go for the scrub amd massage (pedi) and he does it so thoroughly,nail technicians,neutral,1,positive,2,False
+550,"Cheese curds!  However, I recommend them for a party of 3 or more. There's just so many!",so many,neutral,1,positive,2,False
+401,Not sure about anything else but the fish and chips and mushy peas are great. Tonight my wife had the Todd in the hole. It was good but a bit dry. I believe if you come way before closing I bet it would be amazing. Come in and say Mike sent you. They might look at you a bit strange but say it anyways.,staff reaction to saying Mike sent you,neutral,1,negative,0,False
+870,New house made cream cheeses!,New house made cream cheeses,positive,2,neutral,1,False
+1302,salad bar!,salad bar,positive,2,neutral,1,False
+85,They have mocktails.,mocktails,neutral,1,positive,2,False
+227,For the money not a bad choice.,money,neutral,1,positive,2,False
+1715,"Pretty dead when I came in on a Monday. Food was ok. It's Applebee's after all, but had the kid with me so we stopped here.  Server was great, the big black spider crawling up my arm, not so much.",the big black spider,negative,0,neutral,1,False
+629,They finally moved to a much larger space!,larger space,positive,2,neutral,1,False
+708,Yum sushi. Not crowded for lunch.,Not crowded,positive,2,neutral,1,False
+292,Have a donut (or two) and enjoy a scoop of Bassett's ice cream (in the same store),donut,positive,2,neutral,1,False
+1506,"It's Skyline tiiiiiiime! (jingle I always heard growing up) If you've never been, they'll probably give you samples.",samples,positive,2,negative,0,False
+673,At the end you're left with a mild broth with noodles that you can slurp out of a cup.,broth with noodles,positive,2,neutral,1,False
+3273,Not too crazy about their sake martini.,sake martini,negative,0,neutral,1,False
+1535,"They might be all business at the counter when you give your order, but their food says I love you.",counter,negative,0,neutral,1,False
+1494,"The takeout menu says to keep an eye out for an expanded menu offering more italian dishes, I can't wait!",takeout menu,positive,2,neutral,1,False
+1494,"The takeout menu says to keep an eye out for an expanded menu offering more italian dishes, I can't wait!",menu,positive,2,neutral,1,False
+1494,"The takeout menu says to keep an eye out for an expanded menu offering more italian dishes, I can't wait!",italian dishes,positive,2,neutral,1,False
+2649,This is a nice restaurant if you are looking for a good place to host an intimate dinner meeting with business associates.,dinner meeting,neutral,1,positive,2,False
+1104,"I had their eggs benedict for brunch, which were the worst in my entire life, I tried removing the hollondaise sauce completely that was how failed it was.",brunch,neutral,1,negative,0,False
+1785,"It costs $2 extra to turn a regular roll into an inside-out roll, but the roll more than triples in size, and that's not just from the rice.",roll,negative,0,neutral,1,False
+1785,"It costs $2 extra to turn a regular roll into an inside-out roll, but the roll more than triples in size, and that's not just from the rice.",roll,negative,0,neutral,1,False
+1785,"It costs $2 extra to turn a regular roll into an inside-out roll, but the roll more than triples in size, and that's not just from the rice.",roll,negative,0,neutral,1,False
+368,The table next to us asked if he crushed the grapes himself when their long overdue bottle of wine finally arrived.,grapes,neutral,1,negative,0,False
+1616,"We didn't even see a menu, as our waiter described both the specials and the main dishes.",menu,neutral,1,negative,0,False
+1616,"We didn't even see a menu, as our waiter described both the specials and the main dishes.",waiter,positive,2,negative,0,False
+272,Pair you food with the excellent beers on tap or their well priced wine list.,food,neutral,1,positive,2,False
+2171,The food options rule.,food options,positive,2,neutral,1,False
+3475,It takes forever to get a drink and they almost always forget to bring something (although they dont forget to charge you for it.,drink,neutral,1,negative,0,False
+2932,"First, the waiter who served us neglected to fill us in on the specials, which I would have chosen had I known about them.",specials,positive,2,neutral,1,False
+3420,"While this isn't classical restaurant fare, the chef has given new life to an old cuisine with some really innovative and tasty dishes that are genuinely Indian without being heavy or same old restaurant burn-outs.",cuisine,neutral,1,positive,2,False
+1925,"Very excited to hear that short-term Chef Jason Narone has moved on, he truly was a low point of their Sterling track record.",Chef,negative,0,positive,2,False
+770,We were told that the wait was about twenty minutes and there would be no problem for our 8:00 pm curtain call.,wait,neutral,1,negative,0,False
+1663,Went there with my wife and we had to wait for a table even though you could see there many that were empty with not reservation sigh on them.,reservation sigh,neutral,1,negative,0,False
+3178,We thought that this place is using too much of MSG cooking in the foods.,foods,negative,0,neutral,1,False
+1345,"Barbecued codfish was gorgeously moist - as if poached - yet the fabulous texture was let down by curiously bland seasoning - a spice rub might have overwhelmed, however herb mix or other sauce would have done much to enhance.",herb mix,negative,0,positive,2,False
+1345,"Barbecued codfish was gorgeously moist - as if poached - yet the fabulous texture was let down by curiously bland seasoning - a spice rub might have overwhelmed, however herb mix or other sauce would have done much to enhance.",sauce,negative,0,positive,2,False
+3169,Also a little more expensive than your average bagel place.,bagel,neutral,1,negative,0,False
+1930,"When my dessert came, there was a candle in it - not because anyone asked for one - but because the waiter must have seen me opening my birthday card and gift, and said he knew it was a special occassion of some sort.",waiter,positive,2,negative,0,False
+1211,"While they keep the capex to a minimum, they do put some cash into the bagels, because they among the best in the city.",capex,positive,2,negative,0,False
+466,"The bruscetta is a bit soggy, but the salads were fresh, included a nice mix of greens (not iceberg) all dishes are served piping hot from the kitchen.",dishes,positive,2,neutral,1,False
+466,"The bruscetta is a bit soggy, but the salads were fresh, included a nice mix of greens (not iceberg) all dishes are served piping hot from the kitchen.",served,positive,2,neutral,1,False
+2938,"they didn't disappoint, service from the second i arrived at the door was extremely pleasant and attentive with almost one server per table.",table,neutral,1,positive,2,False
+2133,"During our meal, the management came over and checked on us and even bought us a round of drinks.",management,positive,2,neutral,1,False
+835,The food was very expensive (we spent $160 for lunch for two) but extremely tasty.,lunch,negative,0,positive,2,False
+3318,I would highly recommand requesting a table by the window.,table by the window,positive,2,neutral,1,False
+2768,"Although the tables may be closely situated, the candle-light, food-quality and service overcompensate.",candle-light,positive,2,negative,0,False
+2768,"Although the tables may be closely situated, the candle-light, food-quality and service overcompensate.",food-quality,positive,2,negative,0,False
+2768,"Although the tables may be closely situated, the candle-light, food-quality and service overcompensate.",service,positive,2,negative,0,False
+2768,"Although the tables may be closely situated, the candle-light, food-quality and service overcompensate.",tables,negative,0,neutral,1,False
+2334,Although be warned their dinner menu to sit and take out prices are different.,prices,neutral,1,negative,0,False
+2334,Although be warned their dinner menu to sit and take out prices are different.,dinner menu to sit,neutral,1,negative,0,False
+842,"Service was decent, but not as smooth as I would expect from a place with these prices and reputation.",reputation,positive,2,negative,0,False
+1714,"I only tried a simple dish of spinach ravioli in a light oil and garlic sauce, but it actually faired better than most NYC Italian joints I've tried similar dishes at.",spinach ravioli in a light oil and garlic sauce,positive,2,neutral,1,False
+1714,"I only tried a simple dish of spinach ravioli in a light oil and garlic sauce, but it actually faired better than most NYC Italian joints I've tried similar dishes at.",dish,positive,2,neutral,1,False
+2657,"Last memorial day, I tried to make reservations but was told they were closed that weekend (interesting, but...).",reservations,negative,0,neutral,1,False
+3417,"While the new restaurant still features much of the same classical furniture that made Tiffin so attractive, the menu has been overhauled.",menu,negative,0,neutral,1,False
+2240,The service was fast and friendly and the food was very tasty and they had the best hot sauce to add to your meals.,meals,neutral,1,positive,2,False
+896,Ummm...the beer was cold.,beer,positive,2,negative,0,False
+1457,"My wife and I will usually only order one primi and one secondi and split them, as they tend to offer large portions.",primi,positive,2,neutral,1,False
+1457,"My wife and I will usually only order one primi and one secondi and split them, as they tend to offer large portions.",secondi,positive,2,neutral,1,False
+1530,I've overheard comments from him to his employees that should not have been delivered in the dining area and I've been sitting there while he lectured another customer.,dining area,neutral,1,negative,0,False
+1799,Every waitress and customer who passed by me bumped into my chair.,waitress,neutral,1,negative,0,False
+1846,"The highlight of the night was the mayonaisse for my side of fries I received from one of the food runners, which is not good considering the bill was nearly $100.",mayonaisse,negative,0,positive,2,False
+1846,"The highlight of the night was the mayonaisse for my side of fries I received from one of the food runners, which is not good considering the bill was nearly $100.",food runners,neutral,1,negative,0,False
+1846,"The highlight of the night was the mayonaisse for my side of fries I received from one of the food runners, which is not good considering the bill was nearly $100.",fries,negative,0,neutral,1,False
+3688,"It is far more popular as a bar than as a restaurant, with only a few tables and the waiter being the bartender, but we greatly enjoyed the unobtrusive atmosphere.",bar,positive,2,neutral,1,False
+3688,"It is far more popular as a bar than as a restaurant, with only a few tables and the waiter being the bartender, but we greatly enjoyed the unobtrusive atmosphere.",waiter,neutral,1,negative,0,False
+1088,"The dosas are skimpy, unattractive and drip with grease, and personally I'd drink popcorn topping before I'd eat another one of these.",popcorn topping,neutral,1,negative,0,False
+1078,The fillings may be unconventional but the dosa batter is definitely authentic and the combinations very tasty.,fillings,neutral,1,negative,0,False
+2550,Once they ran out of Gnochi and made it for me from scratch!,Gnochi,neutral,1,negative,0,False
+14,"The whole set up is truly unprofessional and I wish Cafe Noir would get some good staff, because despite the current one this is a great place.",staff,negative,0,positive,2,False
+116,"I have known about this secret for the last 13 years, Emilio(the Godfather) has continued to serve food and wine for the gods at mortal prices.",food,positive,2,neutral,1,False
+116,"I have known about this secret for the last 13 years, Emilio(the Godfather) has continued to serve food and wine for the gods at mortal prices.",wine,positive,2,neutral,1,False
+116,"I have known about this secret for the last 13 years, Emilio(the Godfather) has continued to serve food and wine for the gods at mortal prices.",prices,positive,2,neutral,1,False
+1625,The only thing the waiters don't do for you is wipe your chin when you leave.,waiters,positive,2,negative,0,False
+246,Yeah Shanghai is also great but not quite as good -- they use the same amount of salt but without sweetness to balance out.,salt,negative,0,neutral,1,False
+2898,"The main course had an average portion, and was decent overall.",portion,neutral,1,positive,2,False
+2968,"Nice ambiance, nice little bar, good bartender, Francois, and good service.",bar,positive,2,neutral,1,False
+414,"Average to good Thai food, but terrible delivery.",Thai food,positive,2,neutral,1,False
+637,"Warm, comfortable surroundings, nice appointments (witness the etched glass and brickwork separating the dining rooms).",dining rooms,neutral,1,positive,2,False
+3696,"Unlike other places in NYC where the sandwiches you want only come as a triple-decker, here you can get what you want in a reasonably-sized portion (and price).",sandwiches,negative,0,neutral,1,False
+1024,"If you're looking for a place to sit down, have a drink and conversations with friends, go to sweet-n-tart and order yourself a hong-kong styled milk and tea with tapioca pearls (hot).",hong-kong styled milk,positive,2,neutral,1,False
+1024,"If you're looking for a place to sit down, have a drink and conversations with friends, go to sweet-n-tart and order yourself a hong-kong styled milk and tea with tapioca pearls (hot).",tea with tapioca pearls (hot),positive,2,neutral,1,False
+464,"The ambiance is minimal the food is not phenomenal, but some dishes are quite good, such as the eggplant parmesan, veal in carozza chicken saltimbocca.",ambiance,positive,2,negative,0,False
+464,"The ambiance is minimal the food is not phenomenal, but some dishes are quite good, such as the eggplant parmesan, veal in carozza chicken saltimbocca.",food,negative,0,neutral,1,False
+464,"The ambiance is minimal the food is not phenomenal, but some dishes are quite good, such as the eggplant parmesan, veal in carozza chicken saltimbocca.",veal in carozza chicken saltimbocca,positive,2,neutral,1,False
+2539,The bar has various selections and the mixed drink special is a catcher! 2 for 1's.,bar,positive,2,neutral,1,False
+1192,"They sell special sushi, everything have a topping, sauce and etc.",sushi,positive,2,neutral,1,False
+1192,"They sell special sushi, everything have a topping, sauce and etc.",sauce,positive,2,neutral,1,False
+1192,"They sell special sushi, everything have a topping, sauce and etc.",topping,positive,2,neutral,1,False
+983,"both are very reasonably priced (around $8 for dinner and $5 for lunch), and are delicious and filling.",lunch,positive,2,neutral,1,False
+547,I've had to wait only a few times during lunch but this place is definitely worth the wait.,wait,positive,2,negative,0,False
+3494,Went to Ottimo and was expecting outstanding pizza (as I love La Pizza Fresca).,pizza,neutral,1,positive,2,False
+1447,He was terribly thirsty after the meal too.,meal,negative,0,neutral,1,False
