@@ -1,0 +1,358 @@
+source_year,domain,sentence_id,text,target,polarity
+custom,custom,1127,"They started as a kettle corn spot and branched out to other sweets. They sell kettle corn, homemade ice cream, cupcakes, cake, and (rather pricey) milkshakes. Soon they'll add hotdogs and hamburgers. Yum!",kettle corn,neutral
+custom,custom,681,"chocolate croissants are good (and sell out quick), but the ham & cheese croissants are GREAT!",ham & cheese croissants,positive
+custom,custom,985,Outstanding German Draft Beer selection! Menu looks great. Will be back!,German Draft Beer selection,positive
+custom,custom,6,Order the Tortilla Soup,Tortilla Soup,positive
+custom,custom,959,"Watch out for the wood flooring on the way to the restrooms, it ramps up and back down again right by the end of the bar.",wood flooring,neutral
+custom,custom,427,"Great wings, 1/2 price after 10 PM.",wings,positive
+custom,custom,156,Excellent service and great food.,food,positive
+custom,custom,1007,"Awesome Cuban bread, fluffy eggs and perfect coffee!",Cuban bread,positive
+custom,custom,546,"Prime rib is delicious but is served a little cold
+
+Service is perfect",prime rib,positive
+custom,custom,1174,"I thought that I would give the place a try but I've been waiting too long. I came in with my niece for a Mommie day out experience but she's been taken care of and I'm still waiting. 
+I don't like the atmosphere and I waited too long to be seen. 
+I decided to leave and this time I don't plan to come back.",be seen,negative
+custom,custom,1183,"Staff is awesome. Prices are very good. Doctor is board certified. Specialties are Bariatrics, geriatrics and internal medicine.",Staff,positive
+custom,custom,1020,Open for brunch and lunch every day. Black bean soup is delicious but has raw onion on top which I hate.,raw onion,negative
+custom,custom,431,Thursday - 1/2 price wine and fish & chip special,1/2 price wine,positive
+custom,custom,608,The soup was not hot before  put in bean sprouts.,soup,negative
+custom,custom,242,Purse Hooks Under the Bar,purse hooks,positive
+custom,custom,42,Best lunch/ happy hour in downtown!!! Kenny rocks!,Kenny,positive
+custom,custom,1292,"Amazing little shop, never know what you will find. Large items move very quickly here, but the owners are very accommodating. It's a labor of love, and you can tell because it's gorgeous stuff!!!",stuff,positive
+custom,custom,1529,"Don't ask the staff at Jefferson Hospital about a bank.  It's been my experience that they don't know about this bank in their own building.  My dad was in Jeff for several days, and the closest ATM I saw until about 2 days before he came home was in Market East Station.  If the staff at Jeff told me there was a TD located RIGHT IN THE BUILDING (just at a different entrance than I'd been using), I could have saved quite a bit on fees.",fees,negative
+custom,custom,139,This place is fantastic!! The food is delicious. I rate customer service five stars. Monday's they have burger specials.,customer service,positive
+custom,custom,257,Great view of the river from VIP section!,view of the river,positive
+custom,custom,1311,Banh mi and goi cuon,goi cuon,neutral
+custom,custom,1099,DO NOT  BUY CARS FROM THIS PLACE . It's a scam - police have had to force the manager to refund money after he committed forgery ... STEER CLEAR,manager,negative
+custom,custom,199,"Well today I started with the shrimp and chicken shrimp rolls, they were great specialy the peanut sauce...them I moved to the soup.",shrimp and chicken shrimp rolls,positive
+custom,custom,639,You can only get dim sum until 3:00 pm,dim sum,neutral
+custom,custom,1138,Best vanilla latte downtown!,vanilla latte,positive
+custom,custom,1730,Had the customary beignets and coffee and we weren't disappointed...,coffee,positive
+custom,custom,474,Favorite-est guacamole!,guacamole,positive
+custom,custom,1860,"Burger, curry, cheese plate...it's all good here.","Burger, curry, cheese plate",positive
+custom,custom,361,"Brownie is good, but very, very sweet","very, very sweet",negative
+custom,custom,1113,The lamb is really tasty here.,lamb,positive
+custom,custom,1841,"Great food, more of a family atmosphere than the other locals.  Looks like a fun place to watch a game, but there is no sound on the tvs.",family atmosphere,positive
+custom,custom,1723,Strawberry pie to go!,Strawberry pie,neutral
+custom,custom,494,Mmmmmm....... Delicious soda!,soda,positive
+custom,custom,636,Service and food was fantastic. The banana pie is amazing. Very attentive and friendly staff.,staff,positive
+custom,custom,284,"This place is a very good place to eat, drink and be merry! They have a pretty good selection of whiskey, especially for the area. The food is very good and the prices are pretty good.",prices,positive
+custom,custom,868,"BBQ hits Oak
+Wafting scent of hickory 
+So good you will SQUEAL
+
+#NOLA_Haiku #Haiku
+#SquealBBQ #NOLAEats
+#NOLABBQ #Squeal",Wafting scent of hickory,neutral
+custom,custom,1699,"Overpriced. It's fine, but you can get better Mexican and margaritas elsewhere for a smaller bill and little wait time.",wait time,positive
+custom,custom,1010,I had a lobster roll to go. Seems pricy but was great. New location nice,lobster roll,positive
+custom,custom,160,"Friendly people, great drinks!",great drinks,positive
+custom,custom,258,"If you're looking to save some cash, split a burger with a friend (theyre huge) or order the $4 burger snack. They will dress it like any of their signature burgers!",burger,positive
+custom,custom,1518,"If Barbara's Downfall is available on the daiquiri menu, order it. You won't regret it.",daiquiri menu,neutral
+custom,custom,1532,OMG banana foster's Belgian Waffles will not dissappoint!,banana foster's Belgian Waffles,positive
+custom,custom,1576,"Note:  The lobster roll is now $9.95 due to ""increased cost"".",increased cost,negative
+custom,custom,145,"Not a big writer but quick review. Must haves are Roti Canai and Mee Siam, the Basil Noodles are also good. Was not a fan of the duck noodles (wasn't a fan so kinda forgot about them). Service was prompt.",Service,positive
+custom,custom,1818,Pizza time. New place. Hope it is good.,Pizza time,neutral
+custom,custom,1147,Spa messed up my body scrub appointment and offered later time. The later time did not work for me and they refunded the body scrub charge but still charged me the $20 day pass even though I had only used the facility for less than 30 minutes.,$20 day pass,negative
+custom,custom,1028,"BYOB so. Ring your favorite drink to accompany the food. I recommend beers, cider or white wine.",beers,positive
+custom,custom,1055,"GREAT PATIO! Great fried okra, fun staff. Good spot for a pretty day.",spot,positive
+custom,custom,896,"Great selection of food, fresh sushi & friendly service! Will be back for sure!",selection of food,positive
+custom,custom,1072,Good customer service. Nice selection. Good sales.,customer service,positive
+custom,custom,1543,Excellent lunch and thoroughly emjoyed food and ambiance!,food,neutral
+custom,custom,254,Wings were pretty good.  Cheeseburger was average.,wings,positive
+custom,custom,246,More variety than you could ever ask for! All materials & products as well ... Helpful service!,variety,positive
+custom,custom,491,Dont use self check out. The machines suck and you wait three times as long for CC payments!!!!!,machines,negative
+custom,custom,1021,"Okay burger place. Seemed very promising. 
+Overpriced burgers and okay service.",service,neutral
+custom,custom,1159,They dropped the Irish Breakfast...WTF???  A table was about to walk after getting told for 3rd time food would be right out.  Declan & Connor are stumbling with their flagship spot.,flagship spot,negative
+custom,custom,625,Amazing drinks! Live music. Not fancy but they have great food.,live music,neutral
+custom,custom,1159,They dropped the Irish Breakfast...WTF???  A table was about to walk after getting told for 3rd time food would be right out.  Declan & Connor are stumbling with their flagship spot.,food,negative
+custom,custom,1367,"Happy Hour $5 glasses of wine are only for house wines! Beware, as there's no info on that anywhere.",Happy Hour,negative
+custom,custom,1353,Great place for lunch! Burger and blue cheese for $8!,blue cheese,neutral
+custom,custom,1689,Short wait tonight.,wait,positive
+custom,custom,341,The Friday crowd at 7 is pretty heavy. Try to come early because Happy hour ends at 7.,Happy hour,neutral
+custom,custom,1751,Great and unique soup ... I normally great the veggie with a green tea . Very tasty and healthy.  Service is always friendly !!!,green tea,positive
+custom,custom,547,Good seafood stew.,seafood stew,positive
+custom,custom,1182,"Ugh, I hate these new Disneyland register lines.",register lines,negative
+custom,custom,1565,Nachos are the best in town!,Nachos,positive
+custom,custom,718,Good lunch specials,lunch specials,positive
+custom,custom,612,"I got the last Mad Hopper on cask! Good for me, bad for you...",Mad Hopper on cask,positive
+custom,custom,1242,New items on the hot bar today!,hot bar,neutral
+custom,custom,1736,Don't order online. Pay in store or you will wait forever!,Pay in store,negative
+custom,custom,853,Clam chowder was good; other stuff--not so much.  No dessert.,dessert,neutral
+custom,custom,90,Great breakfast and lunch,breakfast,positive
+custom,custom,179,Call ahead or be prepared to wait. And I do mean WAIT!!! Take mine and everyone else's advice...CALL AHEAD!!! I'm gonna post a pic of the menu so nobody else has to go through this.,WAIT,negative
+custom,custom,589,"Smells like amazing coffee inside, cutest coffee cafe with attractive seating. Not good for a big group though",coffee,positive
+custom,custom,157,"special right now for vday, buy 4 get 2 free!!!",buy 4 get 2 free,positive
+custom,custom,1487,The waitress Tamara is great! So is the shrimp scampi zucchini fettuccine (though it could use less zucchini and more fettuccine).,waitress Tamara,positive
+custom,custom,1652,The people really make the difference here. Free canned drink with most food purchases.,food purchases,neutral
+custom,custom,188,Amazing! Great coffee and cakes... So many options. I true Italian experience! Deff a must try!,coffee,positive
+custom,custom,21,This place had great coffee but the owner sold it so it not there anymore.,owner sold the place,neutral
+custom,custom,1850,Good coffee in the neighbourhood,coffee,positive
+custom,custom,1392,"Nice theatre, clean and good food.  Unlike other reviews here, my service was great.",service,positive
+custom,custom,591,Larry is an awesome waiter. And the meatballs are the rage.,meatballs,positive
+custom,custom,1319,Friendliest wawa staff around!,wawa staff,positive
+custom,custom,1392,"Nice theatre, clean and good food.  Unlike other reviews here, my service was great.",food,positive
+custom,custom,59,delicious bloody Mary's!,bloody Mary's,positive
+custom,custom,864,The falafel ARE really yummy. And I liked the portion size (I had the vegetarian plate). Mr. Mike is a gem of a person!,Mr. Mike,positive
+custom,custom,170,Patio + limonata: perfect for a beautiful day like this!,patio,positive
+custom,custom,578,Best breakfast burritos in town.....period! Machaca is best I have had.,breakfast burritos,positive
+custom,custom,636,Service and food was fantastic. The banana pie is amazing. Very attentive and friendly staff.,service,positive
+custom,custom,313,"Great grub, friendly service and cold drinks.",cold drinks,positive
+custom,custom,1118,"Be sure to check price for cold brew nitro, or you're in for a scary surprise.",cold brew nitro,neutral
+custom,custom,1248,Leslie is a great server. No kids menu but they love the bunny bites and fried artichokes!,kids menu,neutral
+custom,custom,1088,I prefer the chow mea in with the skinny egg noodles...it makes it more authentic than eating spaghetti with meat & shrimps,chow mea in,positive
+custom,custom,946,"Get the rice and beans!!  Also, what a steal for the portion size on chicken piece meals!",chicken piece meals,neutral
+custom,custom,1852,Chips and salsa is really good.  The salsa is spicy,salsa,neutral
+custom,custom,1573,Sandwiches and cocktails,Sandwiches,neutral
+custom,custom,1003,If you're not sure what to sign up for try one of the workshops,workshops,neutral
+custom,custom,804,"They have ayran, ouzo, and iskender!!! 3 things I deem necessary at a Turkish Mediterranean or Greek place",ouzo,positive
+custom,custom,1667,Red Velvet Dounut Holes make a nice treat,Red Velvet Dounut Holes,positive
+custom,custom,515,Delicious and quick.,quick,positive
+custom,custom,1612,The fries are great!,fries,positive
+custom,custom,1702,great service. fresh food.,food,positive
+custom,custom,1290,"Voila! The Philly Cheese Steak, Local Grass Fed in Brewery Town/Northern Liberties.
+My vote for Best in Philadelphia, hands down.",The Philly Cheese Steak,positive
+custom,custom,540,I got a sesame chicken salad! Oh it was supremely delicious! The price was a little bit too much for a small amount of salad. The waitness was friendly to us!,price,negative
+custom,custom,1055,"GREAT PATIO! Great fried okra, fun staff. Good spot for a pretty day.",staff,positive
+custom,custom,1431,Best Biryani's around.. Better thn Paradise ..,Biryani's,positive
+custom,custom,1269,"For those from northern Indiana, you can buy Bun Bars here.",Bun Bars,neutral
+custom,custom,681,"chocolate croissants are good (and sell out quick), but the ham & cheese croissants are GREAT!",chocolate croissants,positive
+custom,custom,428,Love the green curry and mango tofu. Good for vegetarians.,green curry,positive
+custom,custom,1310,"Poor customer service! I purchased a hand full of sample tiles and waited in line behind a customer with three carts of flooring material. The customer was feeling bad for me and suggested they help me out because I had been waiting for a while with my 3 year old in the cart. The cashier said"" oh, she's ok."" I was livid! How did she know I was going to be ok? I grabbed my son and left the store. They will NOT be getting my hard earned OK money for my 2 bathroom, kitchen and patio renovation!",customer service,negative
+custom,custom,1162,Great lunch on the west bank... Grilled stuffed catfish with Lafayette pasta is my favorite lunch when on the west bank...,west bank,neutral
+custom,custom,1544,"Great location. Drinks RIGHT on the water.  Didn't try the food,,,, next time.",Drinks,positive
+custom,custom,330,"Learned the hard way, closed on Mondays.",closed on Mondays,neutral
+custom,custom,326,"I ate a Fish taco, and Shrimp taco and had a white Sangria to wash it all down. Oh so good!",Fish taco,positive
+custom,custom,1278,Awesome breakfast foods - killer sausage,sausage,positive
+custom,custom,183,You must try the muffins! All made in house and sinfully good!,muffins,positive
+custom,custom,1183,"Staff is awesome. Prices are very good. Doctor is board certified. Specialties are Bariatrics, geriatrics and internal medicine.",Prices,positive
+custom,custom,1706,"If you're using your phone app to pay in drive through, turn phone away from the sun for easy scanning.",drive through,neutral
+custom,custom,222,1st time here - seems like a cool place to hang have a cup of your favorite drink!,cup of your favorite drink,positive
+custom,custom,1839,Cornerstone Cafe: The new kid on the block! Checking out the new family friendly restaurant in New Town! Was told the onion tanglers are awesome and the burgers look huge.,burgers,positive
+custom,custom,1808,Try the fajitas...the smelled great and had me wishing I had ordered them instead of the enchiladas.,fajitas,positive
+custom,custom,620,Just went there recently and it was so good! Delicious pork!,pork,positive
+custom,custom,155,The have the best Posole in town!!! Hands down! Reminds me of my mom's posole back in Mexico! The food is so authentic and taste home cooked!,Posole,positive
+custom,custom,616,Best boba in town!,boba,positive
+custom,custom,795,Happy Hour was great! Nice small plates - sweet potato manchego croquettes delicious as were the grilled shrimp. Service was very friendly and accommodating!,Happy Hour,positive
+custom,custom,918,Finally we're seated for dinner....,seated,neutral
+custom,custom,293,"Go to this bar and have Sarah take care of you she is wonderful, skip the lobby bar Courtney and the crew are not outgoing and they ignore you.",Sarah,positive
+custom,custom,55,"Michelob on tap. No lie. And, a very fine burger. Like your mom used to make. Only better.",burger,positive
+custom,custom,1188,"Good food, but was hoping for more flavor.  When i was there with my sister @ about 1:00 in the afternoon, the trash cans in the diningroom were full and we had to put our trash on top. Would like to try the catering so",trash cans in the diningroom,negative
+custom,custom,839,Good local spot with friendly service and good pricing. Great little salad bar.,salad bar,positive
+custom,custom,1415,Bourbon Filet and Crab Cakes!! Mmmmm ;-),Bourbon Filet and Crab Cakes,positive
+custom,custom,2,It's open even when you think it isn't,opening hours,positive
+custom,custom,1276,Excellent burgers blown away but steer clear of the onion rings or swirls too salty way too salty they need to change the recipe for the onions !!!!!!!,burgers,positive
+custom,custom,1290,"Voila! The Philly Cheese Steak, Local Grass Fed in Brewery Town/Northern Liberties.
+My vote for Best in Philadelphia, hands down.",Local Grass Fed,positive
+custom,custom,419,The Mint Black Tea is outstanding!,Mint Black Tea,positive
+custom,custom,947,"Great place that is open until 6pm to ship from. A lot of people don't know this but that also offer USPS mail so when the post office is slammed busy at lunch, come here. Same rates and way friendlier staff!",rates,neutral
+custom,custom,1790,35 cent wings when the Phillies are playing.,wings,positive
+custom,custom,1854,Breakfast served 7am to 4pm.,Breakfast,neutral
+custom,custom,1438,Breakfast burrito is great.,Breakfast burrito,positive
+custom,custom,1770,Use your Costco card for discounts on rentals and join Fastbreak to save time and bypass the counter,Costco card,positive
+custom,custom,1505,"If you have a table...get the curly fries! If you're there for drinks, watch out because it gets super crowded on weekends late night.",drinks,neutral
+custom,custom,773,Takes forever to get beer and it's mediocre at best,beer,negative
+custom,custom,1478,Felt jipped by the quality of the food. Other Zea's locations like Baton Rouge and Clearview are significantly better.,quality of the food,negative
+custom,custom,279,The blueberry tea here is well worth the price! Very delicious.,blueberry tea,positive
+custom,custom,1227,"Meats, cheeses, grocery items and challah bread.",challah bread,neutral
+custom,custom,459,"Great service, food, and cocktails.  Definitely worth every penny.",cocktails,positive
+custom,custom,1769,"Great food, great look, great service, plenty of parking. Look out coffee cup!",service,positive
+custom,custom,1214,That free wine is really nice from 4-5 per guest per room.,free wine,positive
+custom,custom,676,Friendly staff!!! Clean!!!,clean,positive
+custom,custom,1681,"Great fresh/organic veggies, awesome antibiotic free meats",fresh/organic veggies,positive
+custom,custom,1686,Excellent food and great service! Love the new menu!,service,positive
+custom,custom,9,"Got the grilled chicken entree. It was delicious but was a small portion. I like the environment here, for sure, though.",portion size,negative
+custom,custom,1124,Love me some pork and fire and ice pickles! : ),pork and fire and ice pickles,positive
+custom,custom,408,Fresh & delicious! One of my new go to sushi places.,fresh & delicious,positive
+custom,custom,1080,Hahhhpppy Hour til 730,Hahhhpppy Hour,neutral
+custom,custom,761,"Walked in, reeked badly. Smelled men's bathrooms that smelled better. Am I going to eat raw fish in a place that smells bad when I walk in?",smells bad,negative
+custom,custom,1869,"no beer, stick to the shack outside",beer,negative
+custom,custom,1848,"Just used GrubHub for a delivery. Food took over an hour and a half to be delivered, sauce on pasta was supposed to be on side, food leaking from containers, no utensils.
+I asked for a few sides and got none.
+Buh bye, Little Italy.",GrubHub,neutral
+custom,custom,1511,"Valet parking is listed @ 28 $ but expect to pay more for your truck. Eric was the valet attendee and was pleasant and the help at the desk should be a little more exuberant in my opinion. (This is new orleans)                   The room is small but eloquent however is missing some functionality of fridge,  microwave and laundry services (no service on weekends)    if you are staying short term and taking public transportation this place is great for a few days.",Valet parking,negative
+custom,custom,685,They always want to sit everyone by the windows where the rest of the restaurant is usually pretty empty.  Kinda annoying. But I've never complained.,empty,neutral
+custom,custom,1749,Great soft corn tacos,soft corn tacos,positive
+custom,custom,1286,"Love this place, great ambiance, great food. Nice view of the River !",view of the River,positive
+custom,custom,1595,"Service was good, ramen broth could've been more flavorful. Like the decor.",Service,positive
+custom,custom,299,"The food was good, staff was friendly but the entire back part of the dining room smelled like a dirty bathroom. Thought maybe it was just me but several other patrons commented on the smell.",back part of the dining room smelled,negative
+custom,custom,1684,"Parking is always problematic in this tiny shopping plaza,l. If you don't wanna valet, I always park right across the street a few feet away at the ""Medi-Weightloss/ Optical outlets plaza. That's actually where the valets park the cars. I saw one got a car from there today!",Parking,negative
+custom,custom,1590,They take quarters!!!!,take quarters,neutral
+custom,custom,35,Great wings. Awesome onion rings. Enjoyed it very much.,wings,positive
+custom,custom,1318,go to Applebee's and ask for Keiva!!! she's the best!!! she has some Doritos,Keiva,positive
+custom,custom,643,Great ribs...mmmmm,ribs,positive
+custom,custom,1272,Good to see my Great People that cook the most Awesome Veggie Burrito on whole wheat.   Love this Food!,Food,positive
+custom,custom,1149,"This place has fallen off, used to be great, terrible service, and 5 taps out?",service,negative
+custom,custom,1407,"Get the hotdog, soda and churro! Only $2.50!!! It's amazing!",churro,neutral
+custom,custom,967,Horrible customer service. Absolutely horrible.,customer service,negative
+custom,custom,973,Nice rooms. Nice bathrooms in the rooms. About to check out the restaurant & bar. I think I'm going to like it here!!,bar,neutral
+custom,custom,169,"Tried a ham ""diablo"" today and did not enjoy it. I love hot & spicy  food but the diablo really didn't work for me.
+I like the theory of spicy meats and spiced up ""hot""  cheese, but spiced up with too much crushed red peppers.
+In my opinion this didn't work, way too much crushed red pepper, should have taken a pic, but trust me it was way over seasoned. My eyes were tearing it was so hot , usually that's a good thing but it was all due to too much crushed red pepper.",cheese,negative
+custom,custom,1408,Man in place says.  I never get tired of eating here.  Me.  Huh?  It's wings and burgers.  Tons of places blow this out of water.  End scene,burgers,negative
+custom,custom,1054,Beautiful prepared to order and wait for your food OUTSIDE! Worth it though!,wait for your food,positive
+custom,custom,1591,Check out the lent specials they are offering with Shrimp,lent specials,positive
+custom,custom,414,Yummy,food,positive
+custom,custom,1481,"Get spinach before lettuce, you get more of both veggies.",veggies,positive
+custom,custom,395,You can order anything. Always fresh and always delicious!,fresh,positive
+custom,custom,286,This place is actually open until 10 pm not 9.,opening hours,neutral
+custom,custom,129,Lobster ravioli is excellent!!,lobster ravioli,positive
+custom,custom,1756,Bisque soup is yum.,Bisque soup,positive
+custom,custom,235,Everything came out so hot & fresh! Get the corn,corn,positive
+custom,custom,1198,"Steaming buffet trays
+Foods from all-corners of globe
+With Bromo chaser
+
+#Haiku #NOLA_Haiku
+#EastBuffet",Foods,neutral
+custom,custom,1235,Very home style viet food and quick service for lunch.,viet food,positive
+custom,custom,357,Call in your order ;-) for the best hot chicken around,hot chicken,positive
+custom,custom,561,Excellent cafe blanco aka bailys and patron cafe made by our bartender Heather!!,bartender,positive
+custom,custom,914,Yummy. Get the crab legs.,crab legs,positive
+custom,custom,1004,Great Food and Service! The Burgers are amazing!,Food,positive
+custom,custom,1383,Poor selection. :(,selection,negative
+custom,custom,1065,"Charbroiled oysters - amazing! Everything else-um, very industrial. Great service. Blackened catch, tired baked potato, flacid green beans.",service,positive
+custom,custom,1386,I love the beignets and coffee,coffee,positive
+custom,custom,1738,Love this store! Staff is wonderful!,Staff,positive
+custom,custom,675,I come here often. Service is usually ok. I usually order from the McValue Menu.,McValue,neutral
+custom,custom,1289,No alcohol right now! They're renewing their liquor license and should be back to the full adult beverage menu by the end of the month.,adult beverage menu,neutral
+custom,custom,1333,great burgers and ya gotta LOVE the bottomless root beer float!,bottomless root beer float,positive
+custom,custom,1734,"Nice views, good personnel. Nice atmosphere",views,positive
+custom,custom,633,Unexpectedly delicious! A west side gem,delicious,positive
+custom,custom,1865,"Great service, clean and friendly nail techs who do a great job.",nail techs,positive
+custom,custom,680,"Good clean Mexican food. May suffer when really busy. But, that is the exception. Order the shrimp fajitas and you will love this offering.",shrimp fajitas,positive
+custom,custom,369,It took 10 minutes to get a pitcher of beer. No apologies and it's slow. Not cool Blueberry Hill.,pitcher of beer,negative
+custom,custom,1131,Bucket beers and TVs this is a sports bar.  Big parking lot and lots of Blues fans.,Bucket beers,positive
+custom,custom,1512,"If you want to sing karaoke, come in on the evening...select the song... Clear your throat... Let it rip!",the evening,neutral
+custom,custom,994,"Nice people, good food! Will come back soon.",food,positive
+custom,custom,1211,"I was a little disappointed in this visit. I've been here before and had a great experience. This time was not so good. The see ER seemed perturbed by our large party. No ""hello"", ""how are you"", etc. All the salads were warm. I don't know why. While the portions were generous as usual, my pasta lacked flavor and came out luke warm. The cheese cause was concealed. Cunetto's is normally fantastic. This time they missed the mark.",pasta,negative
+custom,custom,1536,"Very nice as Gyms go!  Nice equipment, pool seems to be where people bathe, ( water is still there is sheen of something) Courtesy is a plus at check in.  Trainers are nice if you use them.  What can you expect for 9.95 a month.  I like to work out and move on.  Thanks!",equipment,positive
+custom,custom,542,Chapati has been given #9 in the #YelpTop50!  I am very happy to see the continued success of this restaurant.  It deserves all the accolades it gets!,Chapati,positive
+custom,custom,814,Brand new breakfast stop!   Welcome to the 'hood!!!,breakfast,positive
+custom,custom,1676,Best IPA in town !!,IPA,positive
+custom,custom,1346,"Champagne Toast, Cheese & Oysters.",Oysters,neutral
+custom,custom,539,"Amazing food, service, atmosphere. Electric crowd, but nice.",atmosphere,positive
+custom,custom,175,Spicy tofu = AMAZING. Pancakes are nothing special - dont get them,pancakes,negative
+custom,custom,688,To go orders are well made.,to go orders,positive
+custom,custom,1007,"Awesome Cuban bread, fluffy eggs and perfect coffee!",fluffy eggs,positive
+custom,custom,815,Good bbq. Not the best I've had but I am a self proclaimed expert! Peach cobbler was a little gummy. Price is fair for the amout of food. Decor is cool!,decor,positive
+custom,custom,92,"New Fall Menu is amazing! If at brunch Sat or Sun, you must try the Rabbit with a creamy polenta fresh micro greens and sauteed kale! Delish!",New Fall Menu,positive
+custom,custom,589,"Smells like amazing coffee inside, cutest coffee cafe with attractive seating. Not good for a big group though",attractive seating,positive
+custom,custom,149,It's a renovated bungalow... And it's locally and woman owned. Gotta love it!,locally and woman owned,positive
+custom,custom,1800,Mu shu chicken special and but I'm a cheerleader is on,Mu shu chicken special,neutral
+custom,custom,1781,Finally tryin a fish taco,fish taco,neutral
+custom,custom,840,Mac n cheese is ok and so are the fries. Won't be back though!,Mac n cheese,neutral
+custom,custom,1603,Staff is very attentive and they work as a team. Food is very good...Seared Ahi app is great and the Reuben is outstanding!!!,Staff,positive
+custom,custom,562,Servings are generous for a tapas place. 2 orders per person is quite filling,servings,positive
+custom,custom,1324,Great coffee and no early morning lines,coffee,positive
+custom,custom,1608,Wednesday is ladies night! Free gift certificates to salons and restaurants raffled every hour and drink specials!,drink specials,positive
+custom,custom,1507,"You can dispute all you'd like but these are the negative aspects I found, as an employee you're opinion is one sided and I'm not the only yelper that has made a remark about the prices or lack of stock instead of battling potential clients try improving your employer in maybe a round table meeting",lack of stock,negative
+custom,custom,693,I can't figure out why people like this place. Service sucked. Dishes were dirty. Portions were small. The guac was the only good part.,portions,negative
+custom,custom,959,"Watch out for the wood flooring on the way to the restrooms, it ramps up and back down again right by the end of the bar.",the bar,neutral
+custom,custom,1137,Order your wings extra crispy. Trust me it makes a difference. Some how they seem to be more flavorful.,wings,positive
+custom,custom,423,The wifi is better than the food....,food,negative
+custom,custom,628,"Ask for your food in separate containers or they will mix them together, double check it before you leave",food,negative
+custom,custom,1701,Gotta love Irish music and appreciate good service.  Tigger is great and knows the menu inside and out.,Tigger,positive
+custom,custom,1280,"Great location, small, but well appointed rooms, lots of ambient noise, good price.",ambient noise,negative
+custom,custom,445,Online order to pickup in less than 5 minutes... Excellent!,online order to pickup,positive
+custom,custom,1494,Love this place. AMAZING Food!!!,Food,positive
+custom,custom,1439,Blackberry egg cream soda- oh man so good,Blackberry egg cream soda,positive
+custom,custom,188,Amazing! Great coffee and cakes... So many options. I true Italian experience! Deff a must try!,many options,positive
+custom,custom,1522,Our surfer was sweet and checked on us constantly! Mahi sandwhich was drool worthy!,Mahi sandwhich,positive
+custom,custom,1598,All tables are outside - this is an operating bait shack too - so if it's raining be prepared to sit at the bar which is covered.,bar,neutral
+custom,custom,1639,Tapping of an incredible Russian Imperial Stout.  Hurry before it is gone,Tapping of an incredible Russian Imperial Stout,positive
+custom,custom,686,Great authentic flavors.,authentic flavors,positive
+custom,custom,1569,The little coffee bar by gate B10 is pretty good,coffee bar,positive
+custom,custom,536,"Awesome atmosphere, delicious drink!",atmosphere,positive
+custom,custom,897,"Great service, great atmosphere! Thanks Corey, and Monk!",atmosphere,positive
+custom,custom,938,Good beer selection (tons of craft) and great fish and chips,beer selection,positive
+custom,custom,422,"The restaurant is warm and inviting, the food is deliciously authentic and the bar selection is superb. Something for everyone on the menu!",restaurant,positive
+custom,custom,923,"Char-grilled oysters are a must, esp. when the Acme lines are ridiculous",Char-grilled oysters,neutral
+custom,custom,1496,Food good but chips very stale !,chips,negative
+custom,custom,1123,"Great, FRESH beer! We loved sitting outside in the garden.",garden,positive
+custom,custom,1847,The Alley Fries-brushed with butter and Montreal steak seasoning-are so good.,The Alley Fries,positive
+custom,custom,1845,Great specials and the employees are very friendly,specials,positive
+custom,custom,266,Great menu and low prices,menu,positive
+custom,custom,596,Order the Tachos...don't ask questions!,Tachos,positive
+custom,custom,210,"Amazing food in such a small location.
+Always hot and fresh.
+Delivery is always quick",food,positive
+custom,custom,748,Always a good place to go for some great Pho...,Pho,positive
+custom,custom,1792,"Delicious, strong coffee and yummy baked goods with many GF and vegan options!! Try the vegan pumpkin whoopie pie. Bagels run out quick so get there early if you want one. They accept credit cards now, too!",credit cards,neutral
+custom,custom,587,It's fairly small so get there early on the weekends. And try their iced chai!,small,neutral
+custom,custom,1547,Good staff,staff,positive
+custom,custom,125,They have glass tumblers for self-service water!,glass tumblers for self-service water,positive
+custom,custom,184,Great food eating in or taking out!,food,positive
+custom,custom,1647,"Pretty legit happy hour. All of the food is between $4-$6 (hummus, pizza, sliders, truffle popcorn and deviled eggs) and a good variety of drink specials. The regular menu is borderline absurdly expensive so my suggestion would be to come for HH.",happy hour,positive
+custom,custom,497,Ice coffee hazelnut with whip cream is the bomb,Ice coffee hazelnut with whip cream,positive
+custom,custom,1368,Try the tomato soup. Now.,tomato soup,neutral
+custom,custom,913,My lengthy review to come later. Good tacos. Major issues,tacos,positive
+custom,custom,1461,"Great flavors, positive experience",flavors,positive
+custom,custom,1483,We ordered the cannon barrel and there was not enough deaths door white whiskey and the bartender went to get another bottle she came back with it and the other bartender stopped her from opening it and told here to finish the drink with Smirnoff vodka. Not cool!! Normally excellent though.,cannon barrel,negative
+custom,custom,760,Amazing pizza - and they deliver until 3pm!,pizza,positive
+custom,custom,1315,The best Chinese food in the area,Chinese food,positive
+custom,custom,207,Lunch specials are great.,lunch specials,positive
+custom,custom,958,"Great food, great service, comfortable atmosphere. What more can one ask for?",service,positive
+custom,custom,322,The earlier the better. They are open on Sunday's,opening hours,neutral
+custom,custom,1284,"If you want good Mexican food this is the place to go. Quick, cheap, good food.",food,positive
+custom,custom,1131,Bucket beers and TVs this is a sports bar.  Big parking lot and lots of Blues fans.,Big parking lot,positive
+custom,custom,1702,great service. fresh food.,service,positive
+custom,custom,116,Everything is delicious!,everything,positive
+custom,custom,680,"Good clean Mexican food. May suffer when really busy. But, that is the exception. Order the shrimp fajitas and you will love this offering.",busy,negative
+custom,custom,1427,"OMG!!! First time here. Pancakes are soo good. Didn't really like the syrup, but the homemade blueberry jam was great! My BF ordered the Chili and Eggs and it was AMAZING!! Can't wait to come back and order that for myself! The service was fast and very nice.",Pancakes,positive
+custom,custom,875,Wonderful atmosphere. Hard to chose from the many offerings on the menu.,many offerings on the menu,neutral
+custom,custom,907,Amazing breakfast!,breakfast,positive
+custom,custom,253,Ordered the Katrina and it was sooooo good. Love this place!!,Katrina,positive
+custom,custom,961,Watch for hairballs in the pool.,pool,negative
+custom,custom,239,Call in lunch take out order ahead of time. I saw people picking up orders & they were in & out while others waited (= more time for break)!,waited,negative
+custom,custom,269,"Cuban! Best expresso in town, plus incredible varietals of beans for regular coffee. Brew options are unique. Park behind off Hermitage Av.",expresso,positive
+custom,custom,863,Some of the nail technicians are alright..but if you get jimmy he does the best job cuz I always go for the scrub amd massage (pedi) and he does it so thoroughly,nail technicians,neutral
+custom,custom,1772,To get a takeaway from here (even when it is empty like now) I can say that they make you wait too long. The food is good WHEN u get it.,takeaway,negative
+custom,custom,550,"Cheese curds!  However, I recommend them for a party of 3 or more. There's just so many!",so many,neutral
+custom,custom,401,Not sure about anything else but the fish and chips and mushy peas are great. Tonight my wife had the Todd in the hole. It was good but a bit dry. I believe if you come way before closing I bet it would be amazing. Come in and say Mike sent you. They might look at you a bit strange but say it anyways.,staff reaction to saying Mike sent you,neutral
+custom,custom,716,Don't waste your time. Tried it 5 times had issues each. Undercooked chicken! Marker on food!! No dressing made?!? And other problems. Go to lower state.,no dressing made,negative
+custom,custom,870,New house made cream cheeses!,New house made cream cheeses,positive
+custom,custom,1055,"GREAT PATIO! Great fried okra, fun staff. Good spot for a pretty day.",PATIO,positive
+custom,custom,1629,They now have some spices and tea in the bulk aisles. Woo-hoo!,tea,neutral
+custom,custom,413,Best beignets in town...great for soaking up the alcohol from the night before:),beignets,positive
+custom,custom,1763,"Not exactly attentive this evening, but the wine & pizza were good and the patio can't be beat.",patio,positive
+custom,custom,19,Great breakfast buffet open to the public also ;),breakfast buffet,positive
+custom,custom,717,They deliver and have a huge delivery radius (I believe at no charge).,delivery,positive
+custom,custom,1394,The service is good here and the Nachos are everything.,service,positive
+custom,custom,1114,A large array of balsamic vinegars for you to sample with your bread,bread,neutral
+custom,custom,564,Excellent service and food !,food,positive
+custom,custom,1048,Pizza by the slice. Add your own toppings.,toppings,neutral
+custom,custom,1302,salad bar!,salad bar,positive
+custom,custom,1638,Best pizza! Taste homemade,pizza,positive
+custom,custom,1525,"Crazy busy tonight. So happy for the owners.  Wine and beer is available now!
+
+If you're a newbie don't sweat the menu - it comes down to wrap or plate;  protein choice; sauce; and side.  Awesome dumplings and spring rolls for appetizers.",sauce,neutral
+custom,custom,1673,Love this thrift store everything is so organized and everything is clean lots of name brand to choose from unfortunately there is no fitting room butt I love the sales they have on Thursdays every other Thursday is half price of the entire store you can go crazy on that to-do list and the staff is incredibly nice and helpful,staff,positive
+custom,custom,511,Great Happy hour. Half price draughts and hummus. The Charleville is excellent,Half price draughts,positive
+custom,custom,1333,great burgers and ya gotta LOVE the bottomless root beer float!,burgers,positive
+custom,custom,74,"Self serve onions, relish, mayo?  And FREE caramelized onions?  Yes!",free caramelized onions,positive
+custom,custom,1422,Must try hand drawn noodle with schezuan spicy broth (medium spice is perfect)!,medium spice,positive
+custom,custom,1224,"Service was slow, but food was ok. Manager Erica is great.",food,neutral
+custom,custom,595,Friendly barista. Local! Good stop on foot.,good stop,positive
+custom,custom,560,I loved the chicken Caesar salad and the Flat Tire draft (which was free thanks to a Yelp check-in offer). The waiter was incredibly nice but took a long time to take our order and bring the check once requested.,waiter,positive
+custom,custom,243,Bruschetta pizza. No words more need to be expressed.,Bruschetta pizza,positive
+custom,custom,85,They have mocktails.,mocktails,neutral
+custom,custom,91,Try the Calamari!,Calamari,positive
+custom,custom,1054,Beautiful prepared to order and wait for your food OUTSIDE! Worth it though!,prepared to order,positive
+custom,custom,1398,Ol?s with cheese is a must,Ol?s with cheese,positive
+custom,custom,227,For the money not a bad choice.,money,neutral
+custom,custom,1303,"Great food, terrible service, particularly the host and hostesses.",food,positive
+custom,custom,1724,Definitely not slowbucks! They are killing profits! Love the caramel machiatto.,caramel machiatto,positive
+custom,custom,1582,I hear the cajun rolls are to die for. I know what i'm trying next..,cajun rolls,positive
+custom,custom,269,"Cuban! Best expresso in town, plus incredible varietals of beans for regular coffee. Brew options are unique. Park behind off Hermitage Av.",varietals of beans for regular coffee,positive
+custom,custom,1715,"Pretty dead when I came in on a Monday. Food was ok. It's Applebee's after all, but had the kid with me so we stopped here.  Server was great, the big black spider crawling up my arm, not so much.",the big black spider,negative
+custom,custom,360,Cozy and friendly feel. Great grub and drinks.,grub,positive
+custom,custom,574,"The stromboli's with brown gravy, mushrooms, onion, and pickles are legendary here.  #The317Live","stromboli with brown gravy, mushrooms, onion, and pickles",positive
+custom,custom,629,They finally moved to a much larger space!,larger space,positive
+custom,custom,708,Yum sushi. Not crowded for lunch.,Not crowded,positive
+custom,custom,1726,"My new favorite Korean spot in town. Excellent service, great for groups and delicious fresh food! Try the dumplings, beef spring roll and beef bulgogi!",food,positive
+custom,custom,70,"New ownership, $1.00 drafts all day, and very nice food....",very nice food,positive
+custom,custom,292,Have a donut (or two) and enjoy a scoop of Bassett's ice cream (in the same store),donut,positive
+custom,custom,1506,"It's Skyline tiiiiiiime! (jingle I always heard growing up) If you've never been, they'll probably give you samples.",samples,positive

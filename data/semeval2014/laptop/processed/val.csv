@@ -1,0 +1,228 @@
+source_year,domain,sentence_id,text,target,category,polarity,label,from_idx,to_idx
+2014,laptop,2587,"One suggestion I do have, is to not bother getting Microsoft office for the mac expecting it will work just like you knew it to on a PC.",Microsoft office for the mac,NONE,negative,0,51,79
+2014,laptop,810,YOU WILL NOT BE ABLE TO TALK TO AN AMERICAN WARRANTY SERVICE IS OUT OF COUNTRY.,WARRANTY SERVICE,NONE,negative,0,44,60
+2014,laptop,1193,"Speaking of the browser, it too has problems.",browser,NONE,negative,0,16,23
+2014,laptop,1365,Purchased a Toshiba Lap top it worked good until just after the warrenty went out.,warrenty,NONE,negative,0,64,72
+2014,laptop,2271,We upgraded the memory to four gigabytes in order to take advantage of the performace increase in speed.,memory,NONE,neutral,1,16,22
+2014,laptop,2271,We upgraded the memory to four gigabytes in order to take advantage of the performace increase in speed.,speed,NONE,positive,2,98,103
+2014,laptop,2271,We upgraded the memory to four gigabytes in order to take advantage of the performace increase in speed.,performace,NONE,positive,2,75,85
+2014,laptop,446,I love the glass touchpad.,glass touchpad,NONE,positive,2,11,25
+2014,laptop,2752,I am using the external speaker- sound is good.,external speaker,NONE,positive,2,15,31
+2014,laptop,2752,I am using the external speaker- sound is good.,sound,NONE,positive,2,33,38
+2014,laptop,331,"It has a 10 hour battery life when you're doing web browsing and word editing, making it perfect for the classroom or office, and in terms of gaming and movie playing it'll have a battery life of just over 5 hours.",battery life,NONE,positive,2,17,29
+2014,laptop,331,"It has a 10 hour battery life when you're doing web browsing and word editing, making it perfect for the classroom or office, and in terms of gaming and movie playing it'll have a battery life of just over 5 hours.",battery life,NONE,positive,2,180,192
+2014,laptop,331,"It has a 10 hour battery life when you're doing web browsing and word editing, making it perfect for the classroom or office, and in terms of gaming and movie playing it'll have a battery life of just over 5 hours.",gaming,NONE,neutral,1,142,148
+2014,laptop,331,"It has a 10 hour battery life when you're doing web browsing and word editing, making it perfect for the classroom or office, and in terms of gaming and movie playing it'll have a battery life of just over 5 hours.",movie playing,NONE,neutral,1,153,166
+2014,laptop,331,"It has a 10 hour battery life when you're doing web browsing and word editing, making it perfect for the classroom or office, and in terms of gaming and movie playing it'll have a battery life of just over 5 hours.",web browsing,NONE,neutral,1,48,60
+2014,laptop,331,"It has a 10 hour battery life when you're doing web browsing and word editing, making it perfect for the classroom or office, and in terms of gaming and movie playing it'll have a battery life of just over 5 hours.",word editing,NONE,neutral,1,65,77
+2014,laptop,3027,Enabling the battery timer is useless.,battery timer,NONE,negative,0,13,26
+2014,laptop,1928,After about a week I finally got it back and was told that the motherboard had failed and so they installed a new motherboard.,motherboard,NONE,negative,0,63,74
+2014,laptop,1928,After about a week I finally got it back and was told that the motherboard had failed and so they installed a new motherboard.,motherboard,NONE,neutral,1,114,125
+2014,laptop,1408,"Yes, the computer was light weight, less expensive than the average laptop, and was pretty self explantory in use.",use,NONE,positive,2,110,113
+2014,laptop,1471,"And not to mention after using it for a few months or so, the battery will slowly less and less hold a charge until you can't leave it unplugged for more than 5 minutes without the thing dying.",battery,NONE,negative,0,62,69
+2014,laptop,911,"no complaints with their desktop, and maybe because it just sits on your desktop, and you don't carry it around, which could jar the hard drive, or the motherboard.",hard drive,NONE,neutral,1,133,143
+2014,laptop,911,"no complaints with their desktop, and maybe because it just sits on your desktop, and you don't carry it around, which could jar the hard drive, or the motherboard.",motherboard,NONE,neutral,1,152,163
+2014,laptop,3006,lots of preloaded software.,preloaded software,NONE,positive,2,8,26
+2014,laptop,2886,"My dad has one of the very first Toshibas ever made, yes its abit slow now but still works well and i hooked to my ethernet!",ethernet,NONE,positive,2,115,123
+2014,laptop,2886,"My dad has one of the very first Toshibas ever made, yes its abit slow now but still works well and i hooked to my ethernet!",works,NONE,positive,2,85,90
+2014,laptop,2916,The processor a AMD Semprom at 2.1 ghz is a bummer it does not have the power for HD or heavy computing.,processor,NONE,negative,0,4,13
+2014,laptop,2916,The processor a AMD Semprom at 2.1 ghz is a bummer it does not have the power for HD or heavy computing.,computing,NONE,negative,0,94,103
+2014,laptop,2843,I am enjoying it and the quality it provides is great!,quality,NONE,positive,2,25,32
+2014,laptop,1089,"Well I spilled something on it and they replaced it with this model, which gets hot and the battery doesn't make it through 1 DVD.",battery,NONE,negative,0,92,99
+2014,laptop,2435,I was disappointed when I realized that the keyboard doesn't light up on this model.,keyboard,NONE,negative,0,44,52
+2014,laptop,1338,The brand is tarnished in my heart.,brand,NONE,negative,0,4,9
+2014,laptop,1041,Loaded with bloatware.,bloatware,NONE,neutral,1,12,21
+2014,laptop,1336,So what if the laptops/mobile phones look chic and cool? The after sales support is terrible.,after sales support,NONE,negative,0,61,80
+2014,laptop,1336,So what if the laptops/mobile phones look chic and cool? The after sales support is terrible.,look,NONE,positive,2,37,41
+2014,laptop,2034,I had something else go wrong and they said it had to be in good working order to be able to buy the warranty.,warranty,NONE,negative,0,101,109
+2014,laptop,1752,"however, I may have inadvertently thrown out one of the batteries with the shipping carton.",batteries,NONE,neutral,1,56,65
+2014,laptop,1752,"however, I may have inadvertently thrown out one of the batteries with the shipping carton.",shipping carton,NONE,neutral,1,75,90
+2014,laptop,2276,"I connect a LaCie 2Big external drive via the firewire 800 interface, which is useful for Time Machine.",LaCie 2Big external drive,NONE,neutral,1,12,37
+2014,laptop,2276,"I connect a LaCie 2Big external drive via the firewire 800 interface, which is useful for Time Machine.",firewire 800 interface,NONE,positive,2,46,68
+2014,laptop,2276,"I connect a LaCie 2Big external drive via the firewire 800 interface, which is useful for Time Machine.",Time Machine,NONE,neutral,1,90,102
+2014,laptop,151,The keyboard is top notch.,keyboard,NONE,positive,2,4,12
+2014,laptop,2174,"Not to mention, the battery life is absolutely amazing.",battery life,NONE,positive,2,20,32
+2014,laptop,2954,"It is loaded with programs that is of no good for the average user, that makes it run way to slow.",programs,NONE,negative,0,18,26
+2014,laptop,2954,"It is loaded with programs that is of no good for the average user, that makes it run way to slow.",run,NONE,negative,0,82,85
+2014,laptop,81,Lightweight and the screen is beautiful!,screen,NONE,positive,2,20,26
+2014,laptop,756,PC never worked right even after BIOS fixed.,BIOS,NONE,negative,0,33,37
+2014,laptop,2863,The price and features more than met my needs.,price,NONE,positive,2,4,9
+2014,laptop,2863,The price and features more than met my needs.,features,NONE,positive,2,14,22
+2014,laptop,1532,My sister has the same Mac as me and she is in a band and uses GarageBand to record and edit.,GarageBand,NONE,neutral,1,63,73
+2014,laptop,2238,and looks very sexyy:D  really the mac book pro is the best laptop specially for students in college if you are not caring about price.,price,NONE,negative,0,129,134
+2014,laptop,2624,The battery life is amazingly long at 7hrs and 5hrs if you use it.,battery life,NONE,positive,2,4,16
+2014,laptop,2953,The Nortons virus scan is only for a very short time unlike others that usually are good for a year.,Nortons virus scan,NONE,negative,0,4,22
+2014,laptop,2075,I am first time Mac Buyer and am amazed at features and ease of use the Mac offers.,features,NONE,positive,2,43,51
+2014,laptop,2075,I am first time Mac Buyer and am amazed at features and ease of use the Mac offers.,use,NONE,positive,2,64,67
+2014,laptop,2967,I would like at least a 4 hr. battery life.,battery life,NONE,neutral,1,30,42
+2014,laptop,1650,With the macbook pro it comes with freesecuritysoftware to protect it from viruses and other intrusive things from downloads and internet surfing or emails.,securitysoftware,NONE,positive,2,39,55
+2014,laptop,1646,But see the macbook pro is different because it may have a huge price tag but it comes with the full software that you would actually need and most of it has free future updates.,software,NONE,positive,2,101,109
+2014,laptop,1646,But see the macbook pro is different because it may have a huge price tag but it comes with the full software that you would actually need and most of it has free future updates.,updates,NONE,positive,2,170,177
+2014,laptop,2451,Im glad that it has such great features in it.,features,NONE,positive,2,31,39
+2014,laptop,124,It is not ideal for children because of the temp.,temp,NONE,negative,0,44,48
+2014,laptop,205,Images are crisp and clean.,Images,NONE,positive,2,0,6
+2014,laptop,1398,although its windows vista compared to windows xp sucks.,windows vista,NONE,negative,0,13,26
+2014,laptop,1398,although its windows vista compared to windows xp sucks.,windows xp,NONE,positive,2,39,49
+2014,laptop,1008,Ive had to call tech support many times.,tech support,NONE,neutral,1,16,28
+2014,laptop,1921,"Programs would crash all the time, and it turned out to be a very unstable, unreliable laptop for me.",Programs,NONE,negative,0,0,8
+2014,laptop,1872,I BOUGHT THIS LAP TOP AND THE CHARGE TIME DOSEN'T LAST AS LONG AS THEY SAY IT WILL MORE LIKE 2 HOURS,CHARGE TIME,NONE,negative,0,30,41
+2014,laptop,2319,With Windows laptops a wireless mouse is an absolute must.,wireless mouse,NONE,neutral,1,23,37
+2014,laptop,2320,"I bought a Logitech desktop set in anticipation for using with the MBP, but I use the touchpad 90% of the time.",touchpad,NONE,positive,2,86,94
+2014,laptop,1484,"If upgrade is possible to the full Windows 7, then I will truly be a very happy geek.",Windows 7,NONE,positive,2,35,44
+2014,laptop,1489,"All the programs are easy and straight forward on my MacBook Pro, it is clean and organized, which I always strive to be myself.",programs,NONE,positive,2,8,16
+2014,laptop,3034,":-)If you buy this - don't go into it expecting 7 hrs of battery life, and you'll be perfectly satisfied.",battery life,NONE,negative,0,57,69
+2014,laptop,675,10 plus hours of battery...,battery,NONE,positive,2,17,24
+2014,laptop,968,I will definitely be getting a new laptop if it has any more issues after the warranty expires and researching carefully when I do so I don't run accross a situation like this again!,warranty,NONE,neutral,1,80,88
+2014,laptop,388,The processor is very quick and effective as I load webpages and applications.,processor,NONE,positive,2,4,13
+2014,laptop,388,The processor is very quick and effective as I load webpages and applications.,applications,NONE,neutral,1,65,77
+2014,laptop,388,The processor is very quick and effective as I load webpages and applications.,load,NONE,positive,2,47,51
+2014,laptop,388,The processor is very quick and effective as I load webpages and applications.,webpages,NONE,neutral,1,52,60
+2014,laptop,1983,"At first, the computer seemed a great deal--seemingly high-end specs for a low, low price.",specs,NONE,positive,2,63,68
+2014,laptop,1983,"At first, the computer seemed a great deal--seemingly high-end specs for a low, low price.",price,NONE,positive,2,84,89
+2014,laptop,334,It's also very capable of doing moderate video editing (although you may need the performance boost of the larger MacBook Pros for heavy duty mobile video editing).,video editing,NONE,positive,2,41,54
+2014,laptop,334,It's also very capable of doing moderate video editing (although you may need the performance boost of the larger MacBook Pros for heavy duty mobile video editing).,performance,NONE,negative,0,82,93
+2014,laptop,334,It's also very capable of doing moderate video editing (although you may need the performance boost of the larger MacBook Pros for heavy duty mobile video editing).,mobile video editing,NONE,neutral,1,142,162
+2014,laptop,2977,"Laptops are usually used on the go, so why not give you a better battery?",battery,NONE,negative,0,65,72
+2014,laptop,1651,And the warranty on this macbook pro can last up to 5 years or 1000 battery recharge cycles.,warranty,NONE,positive,2,8,16
+2014,laptop,533,I still have that stupid bluetooth mouse to!,bluetooth mouse,NONE,negative,0,25,40
+2014,laptop,1713,"Love the speed, especially!",speed,NONE,positive,2,9,14
+2014,laptop,2213,"I use iphoto all the time, which is a great program for anyone who is into photography - amateurs and experts alike.",iphoto,NONE,positive,2,6,12
+2014,laptop,2213,"I use iphoto all the time, which is a great program for anyone who is into photography - amateurs and experts alike.",program,NONE,positive,2,44,51
+2014,laptop,1531,"The programs are great, like iphoto (love the editing capabilities), imail (which can incorporate with the address book on the ipod and ipad), imovie, etc.",programs,NONE,positive,2,4,12
+2014,laptop,1531,"The programs are great, like iphoto (love the editing capabilities), imail (which can incorporate with the address book on the ipod and ipad), imovie, etc.",iphoto,NONE,positive,2,29,35
+2014,laptop,1531,"The programs are great, like iphoto (love the editing capabilities), imail (which can incorporate with the address book on the ipod and ipad), imovie, etc.",imail,NONE,positive,2,69,74
+2014,laptop,1531,"The programs are great, like iphoto (love the editing capabilities), imail (which can incorporate with the address book on the ipod and ipad), imovie, etc.",imovie,NONE,positive,2,143,149
+2014,laptop,2738,Comfterbale to use light easy to transport.,use,NONE,positive,2,15,18
+2014,laptop,2738,Comfterbale to use light easy to transport.,transport,NONE,positive,2,33,42
+2014,laptop,19,Everything from the design to the OS is simple and to the point.,design,NONE,positive,2,20,26
+2014,laptop,19,Everything from the design to the OS is simple and to the point.,OS,NONE,positive,2,34,36
+2014,laptop,246,Very fast boot up and shut down.,boot up,NONE,positive,2,10,17
+2014,laptop,246,Very fast boot up and shut down.,shut down,NONE,positive,2,22,31
+2014,laptop,2021,This wiped out several programs that were installed on the computer when it was bought.,programs,NONE,negative,0,23,31
+2014,laptop,2359,"The screen is bright and vivid and the keyboard is very easy to use, very important for use quick typers.",screen,NONE,positive,2,4,10
+2014,laptop,2359,"The screen is bright and vivid and the keyboard is very easy to use, very important for use quick typers.",keyboard,NONE,positive,2,39,47
+2014,laptop,3077,For those that care about noise this thing doesn't really make any;,noise,NONE,positive,2,26,31
+2014,laptop,2532,The only downfall is a lot of the software I have won't work with Mac and iWork is not worth the price of it.,iWork,NONE,negative,0,74,79
+2014,laptop,2532,The only downfall is a lot of the software I have won't work with Mac and iWork is not worth the price of it.,software,NONE,negative,0,34,42
+2014,laptop,2532,The only downfall is a lot of the software I have won't work with Mac and iWork is not worth the price of it.,price,NONE,negative,0,97,102
+2014,laptop,2497,BUT there's this application called Boot Camp which allows you to add another OS X like Windows.,application,NONE,neutral,1,17,28
+2014,laptop,2497,BUT there's this application called Boot Camp which allows you to add another OS X like Windows.,OS X,NONE,neutral,1,78,82
+2014,laptop,2497,BUT there's this application called Boot Camp which allows you to add another OS X like Windows.,Boot Camp,NONE,neutral,1,36,45
+2014,laptop,2497,BUT there's this application called Boot Camp which allows you to add another OS X like Windows.,Windows,NONE,neutral,1,88,95
+2014,laptop,2976,They only stay charged a little over an hour.,charged,NONE,negative,0,15,22
+2014,laptop,1128,Keyboard could use some trimming.,Keyboard,NONE,negative,0,0,8
+2014,laptop,1288,"We carry the netbook around here and there, hence it's kinda of irritating when the LCD just ""slide"" downwards.",LCD,NONE,negative,0,84,87
+2014,laptop,427,"I bought it from HSN because it was ""bundled"" with extra software, but as it turns out, that software just crashes it more often.....",software,NONE,negative,0,93,101
+2014,laptop,536,I was sorly disapointed to discover that HP (what I thought was a reputable company) wouldn't honor the warrenty when the fan blade fell apart.,warrenty,NONE,negative,0,104,112
+2014,laptop,536,I was sorly disapointed to discover that HP (what I thought was a reputable company) wouldn't honor the warrenty when the fan blade fell apart.,fan blade,NONE,negative,0,122,131
+2014,laptop,18,"While most people say that PCs hold functionality and value and Macs are just pretty to look at, I think there's something to be said about the simplicity of Macs.",functionality,NONE,positive,2,36,49
+2014,laptop,18,"While most people say that PCs hold functionality and value and Macs are just pretty to look at, I think there's something to be said about the simplicity of Macs.",value,NONE,positive,2,54,59
+2014,laptop,18,"While most people say that PCs hold functionality and value and Macs are just pretty to look at, I think there's something to be said about the simplicity of Macs.",simplicity,NONE,positive,2,144,154
+2014,laptop,18,"While most people say that PCs hold functionality and value and Macs are just pretty to look at, I think there's something to be said about the simplicity of Macs.",look,NONE,positive,2,88,92
+2014,laptop,2306,overall i would recomend this to anybody and tell them that if they want to burn their music or play there video games to buy the cd drive.,cd drive,NONE,neutral,1,130,138
+2014,laptop,2306,overall i would recomend this to anybody and tell them that if they want to burn their music or play there video games to buy the cd drive.,video games,NONE,neutral,1,107,118
+2014,laptop,2211,The graphics on this computer are also stellar - very clear and vivid.,graphics,NONE,positive,2,4,12
+2014,laptop,2723,"Graphics are clean and sharp, internet interfaces are seamless.",Graphics,NONE,positive,2,0,8
+2014,laptop,2723,"Graphics are clean and sharp, internet interfaces are seamless.",internet interfaces,NONE,positive,2,30,49
+2014,laptop,1332,"Do you think I purposely ""destroy"" my netbook, so that I can demand a new set? Do you think it's fun to take public transport all the way to the service center and get a non-satisfactory solution? Or rather NO solution.",service center,NONE,negative,0,145,159
+2014,laptop,79,The OS takes some getting used to especially after being a Windows user for so long but the learning curve is so worth it!,Windows,NONE,neutral,1,59,66
+2014,laptop,1391,the mouse pad and buttons are the worst i've ever seen.,mouse pad,NONE,negative,0,4,13
+2014,laptop,1391,the mouse pad and buttons are the worst i've ever seen.,buttons,NONE,negative,0,18,25
+2014,laptop,398,"Accordingly, I have decided to NEVER purchase another HP product (my five year old Compaq) lasted 5-years before the hard drive crashed.",hard drive,NONE,negative,0,117,127
+2014,laptop,2081,I love the multi-touch trackpad.,multi-touch trackpad,NONE,positive,2,11,31
+2014,laptop,1487,"My MacBook Pro works like a dream, it has never overheated, or even been slightly warm for that matter.",works,NONE,positive,2,15,20
+2014,laptop,2748,"Easy to carry, can be taken anywhere, can be hooked up to printers,headsets.",carry,NONE,positive,2,8,13
+2014,laptop,3046,"So, I took it back to the apple store and they narcissist genius bar staff) fixed it by resetting the fan at boot up.",genius bar staff,NONE,negative,0,58,74
+2014,laptop,3046,"So, I took it back to the apple store and they narcissist genius bar staff) fixed it by resetting the fan at boot up.",fan,NONE,neutral,1,102,105
+2014,laptop,3046,"So, I took it back to the apple store and they narcissist genius bar staff) fixed it by resetting the fan at boot up.",boot up,NONE,neutral,1,109,116
+2014,laptop,2736,"Needs Power and Mouse Cable to Plug in back instead of side, In the way of operating a mouse in small area.",Mouse Cable,NONE,negative,0,16,27
+2014,laptop,2736,"Needs Power and Mouse Cable to Plug in back instead of side, In the way of operating a mouse in small area.",mouse,NONE,negative,0,87,92
+2014,laptop,1047,"-4 RAM slots, 2 HDD Bays*, 16GB RAM support -No Wireless Issues, at least for me.",RAM slots,NONE,neutral,1,3,12
+2014,laptop,1047,"-4 RAM slots, 2 HDD Bays*, 16GB RAM support -No Wireless Issues, at least for me.",HDD Bays,NONE,neutral,1,16,24
+2014,laptop,1047,"-4 RAM slots, 2 HDD Bays*, 16GB RAM support -No Wireless Issues, at least for me.",16GB RAM support,NONE,neutral,1,27,43
+2014,laptop,1047,"-4 RAM slots, 2 HDD Bays*, 16GB RAM support -No Wireless Issues, at least for me.",Wireless,NONE,positive,2,48,56
+2014,laptop,2188,"I would recommend this computer to anyone searching for the perfect laptop, and the battery life is amazing.",battery life,NONE,positive,2,84,96
+2014,laptop,2239,"After doing extensive research, macconnection had the lowest price on the 15"" MBP i5.",price,NONE,positive,2,61,66
+2014,laptop,763,"Summary: I've had this laptop for 2 months, out of the blue the power adapter stops working.",power adapter,NONE,negative,0,64,77
+2014,laptop,2420,They are about the same size keys.,keys,NONE,neutral,1,29,33
+2014,laptop,160,"They offer the best warranty in the business, and don't 3rd party it out like Toshiba.",warranty,NONE,positive,2,20,28
+2014,laptop,2671,"while about 8 years ago, I hope that the quality has changed.",quality,NONE,negative,0,41,48
+2014,laptop,1564,The display is awesome.,display,NONE,positive,2,4,11
+2014,laptop,1947,I had 3 months when the ports started going out.,ports,NONE,negative,0,24,29
+2014,laptop,2576,"I wouldn't play a first-person shooter with this, mind, but if you wanted to run MS Office, email, chat, download a video, listen to music from a certain fruit-named music store, and were looking for a highly portable yet powerful netbook to do that all in, I'd highly recommend checking this out.",MS Office,NONE,neutral,1,81,90
+2014,laptop,2489,"I think the manual is somewhere on the hard drive, but I rather have a hard copy.",manual,NONE,neutral,1,12,18
+2014,laptop,2489,"I think the manual is somewhere on the hard drive, but I rather have a hard copy.",hard drive,NONE,neutral,1,39,49
+2014,laptop,2761,It's even easy to hook up to other wireless networks.,hook up to other wireless networks,NONE,positive,2,18,52
+2014,laptop,2267,"As a computer science student in college, I find that the portability, longevity, and ease of use of this computer make me (shockingly) want to do homework more;",portability,NONE,positive,2,58,69
+2014,laptop,2267,"As a computer science student in college, I find that the portability, longevity, and ease of use of this computer make me (shockingly) want to do homework more;",longevity,NONE,positive,2,71,80
+2014,laptop,2267,"As a computer science student in college, I find that the portability, longevity, and ease of use of this computer make me (shockingly) want to do homework more;",use,NONE,positive,2,94,97
+2014,laptop,207,Learning all of the keyboard shortcuts only took a few minutes to get used to as some of the shortcuts are the same on Windows machines.,keyboard shortcuts,NONE,positive,2,20,38
+2014,laptop,207,Learning all of the keyboard shortcuts only took a few minutes to get used to as some of the shortcuts are the same on Windows machines.,shortcuts,NONE,neutral,1,93,102
+2014,laptop,904,"THEN, one month after the warranty expired, the replacement charger went.",warranty,NONE,neutral,1,26,34
+2014,laptop,904,"THEN, one month after the warranty expired, the replacement charger went.",replacement charger,NONE,negative,0,48,67
+2014,laptop,1570,"company provides UPS shipping, fast, great!",shipping,NONE,positive,2,21,29
+2014,laptop,1783,"It is easy to use, has great screen quality, and every so light weight.",screen quality,NONE,positive,2,29,43
+2014,laptop,1783,"It is easy to use, has great screen quality, and every so light weight.",use,NONE,positive,2,14,17
+2014,laptop,1321,The shop will definitely push the problem to the service center.,service center,NONE,neutral,1,49,63
+2014,laptop,1805,Good for every day computing and web browsing.,web browsing,NONE,positive,2,33,45
+2014,laptop,1805,Good for every day computing and web browsing.,every day computing,NONE,positive,2,9,28
+2014,laptop,821,"Also, I have had alot of trouble with the keys sticking and will not type correctly.",keys,NONE,negative,0,44,48
+2014,laptop,568,"This is the first time that I tried and owning a netbook although I have used 3 different laptops in the past 10 years, I find not much difference except of course for the screen size.",screen size,NONE,neutral,1,172,183
+2014,laptop,1567,But other than that I am blown away by all the features this laptop offers.,features,NONE,positive,2,47,55
+2014,laptop,926,But guess what?  (you have to buy an external dvd drive it doesn't have a built in type) The notebook can't be used because it doesn't read anything for an external drive.,external dvd drive,NONE,negative,0,37,55
+2014,laptop,926,But guess what?  (you have to buy an external dvd drive it doesn't have a built in type) The notebook can't be used because it doesn't read anything for an external drive.,external drive,NONE,negative,0,156,170
+2014,laptop,2824,"Simple to use, and great graphics.",graphics,NONE,positive,2,25,33
+2014,laptop,2824,"Simple to use, and great graphics.",use,NONE,positive,2,10,13
+2014,laptop,2984,"My husband uses it mostly for games, email and music.",games,NONE,neutral,1,30,35
+2014,laptop,2846,"It works great for general internet use, Microsoft Office apps, home bookkeeping, etc.",Microsoft Office apps,NONE,positive,2,41,62
+2014,laptop,2846,"It works great for general internet use, Microsoft Office apps, home bookkeeping, etc.",internet use,NONE,positive,2,27,39
+2014,laptop,1130,After replacing the hard drive the battery stopped working  (3 months of use) which was frustrating.,hard drive,NONE,neutral,1,20,30
+2014,laptop,1130,After replacing the hard drive the battery stopped working  (3 months of use) which was frustrating.,battery,NONE,negative,0,35,42
+2014,laptop,2867,It has easy to use features and all the speed and power I could ask for.,features,NONE,positive,2,19,27
+2014,laptop,2867,It has easy to use features and all the speed and power I could ask for.,speed,NONE,positive,2,40,45
+2014,laptop,2867,It has easy to use features and all the speed and power I could ask for.,power,NONE,positive,2,50,55
+2014,laptop,2134,I preferred the fit and feel of the 13 inch.,13 inch,NONE,positive,2,36,43
+2014,laptop,2373,"The screen takes some getting use to, because it is smaller than the laptop.",screen,NONE,negative,0,4,10
+2014,laptop,44,I regret buying it before understanding how awful it is to use.,use,NONE,negative,0,59,62
+2014,laptop,503,"I have never really been big on downloading anything so I wasn't too worried about getting a virus, plus I thought I was protected by Norton.",Norton,NONE,negative,0,134,140
+2014,laptop,456,The neat and organized icon list is a welcome change from cluttered and confusing desktop icons.,icon list,NONE,positive,2,23,32
+2014,laptop,456,The neat and organized icon list is a welcome change from cluttered and confusing desktop icons.,desktop icons,NONE,negative,0,82,95
+2014,laptop,2009,"The battery never held a charge longer than one hour and within two months, stopped holding a charge for more than ten minutes.",battery,NONE,negative,0,6,13
+2014,laptop,2009,"The battery never held a charge longer than one hour and within two months, stopped holding a charge for more than ten minutes.",charge,NONE,negative,0,27,33
+2014,laptop,2009,"The battery never held a charge longer than one hour and within two months, stopped holding a charge for more than ten minutes.",charge,NONE,negative,0,96,102
+2014,laptop,963,"Another THREE weeks later I had my laptop back with a new mousepad, keys, and casing.",mousepad,NONE,neutral,1,60,68
+2014,laptop,963,"Another THREE weeks later I had my laptop back with a new mousepad, keys, and casing.",keys,NONE,neutral,1,70,74
+2014,laptop,963,"Another THREE weeks later I had my laptop back with a new mousepad, keys, and casing.",casing,NONE,neutral,1,80,86
+2014,laptop,2161,This is great if you have several lectures back to back and don't have a chance to charge during one of the lectures.,charge,NONE,positive,2,83,89
+2014,laptop,2208,I especially like the backlit keyboard.,backlit keyboard,NONE,positive,2,22,38
+2014,laptop,1504,It has just enough RAM to run smoothly and enough memory to satisfy my needs.,RAM,NONE,positive,2,19,22
+2014,laptop,1504,It has just enough RAM to run smoothly and enough memory to satisfy my needs.,memory,NONE,positive,2,50,56
+2014,laptop,49,"In due course, I'll remove the hard disc from this new MacBook Pro and dump it where it belongs - in the trash.",hard disc,NONE,negative,0,31,40
+2014,laptop,429,"The repairs were made quickly though I must say, however the second time they shipped it to the incorrect address and it took nearly a week for them to get it to me.",shipped,NONE,negative,0,78,85
+2014,laptop,2111,"I took it in to the Apple store and guess what? They fixed it, no cost out of pocket.",cost,NONE,negative,0,66,70
+2014,laptop,400,"The quality, engineering design and warranty are superior--covers damage from dropping the laptop.",quality,NONE,positive,2,4,11
+2014,laptop,400,"The quality, engineering design and warranty are superior--covers damage from dropping the laptop.",engineering design,NONE,positive,2,13,31
+2014,laptop,400,"The quality, engineering design and warranty are superior--covers damage from dropping the laptop.",warranty,NONE,positive,2,36,44
+2014,laptop,2731,The first one sent: Touchpad didn't work The second sent: USB didn't work The third sent: Touchpad didn't work The fourth sent: Hasn't arrived yet.,Touchpad,NONE,negative,0,20,28
+2014,laptop,2731,The first one sent: Touchpad didn't work The second sent: USB didn't work The third sent: Touchpad didn't work The fourth sent: Hasn't arrived yet.,USB,NONE,negative,0,58,61
+2014,laptop,2731,The first one sent: Touchpad didn't work The second sent: USB didn't work The third sent: Touchpad didn't work The fourth sent: Hasn't arrived yet.,Touchpad,NONE,negative,0,90,98
+2014,laptop,1142,"And at one point, they blame me for installing a bad memory stick when I upgrade my memory for the first time during my purchase of the laptop (I bought the memory stick they recomended).",memory,NONE,neutral,1,86,92
+2014,laptop,1142,"And at one point, they blame me for installing a bad memory stick when I upgrade my memory for the first time during my purchase of the laptop (I bought the memory stick they recomended).",memory stick,NONE,negative,0,55,67
+2014,laptop,1142,"And at one point, they blame me for installing a bad memory stick when I upgrade my memory for the first time during my purchase of the laptop (I bought the memory stick they recomended).",memory stick,NONE,neutral,1,159,171
+2014,laptop,733,Microsoft seems to be unable to keep up with repairs for the multitude of windows problems.,windows,NONE,negative,0,74,81
+2014,laptop,2085,"(I found a 2GB stick for a bit under $50) Nice and portable and definitely a decent enough system to keep you entertained while sitting in the airplane for a couple of hours, or at the hotel taking care of some last minute details and documents.",system,NONE,positive,2,91,97
+2014,laptop,543,after much effort and 10 days ASUS replaced itThe WiFi is very weak.,WiFi,NONE,negative,0,50,54
+2014,laptop,1472,Not to mention sometimes the whole charger unit will decide not to work entirely.,charger unit,NONE,negative,0,35,47
+2014,laptop,1992,"Anyway, in early July of this year, the DVD burner stopped working, and the computer stared having issues with power supply.",DVD burner,NONE,negative,0,40,50
+2014,laptop,1992,"Anyway, in early July of this year, the DVD burner stopped working, and the computer stared having issues with power supply.",power supply,NONE,negative,0,111,123
+2014,laptop,1021,This computer that I have has had issues with the keyboard where it lost half the keyboard functions.,keyboard,NONE,negative,0,50,58
+2014,laptop,1021,This computer that I have has had issues with the keyboard where it lost half the keyboard functions.,keyboard functions,NONE,negative,0,82,100
+2014,laptop,1845,even though I had the receipt in front of me proving it still had 2 months left on the warranty.,warranty,NONE,negative,0,89,97
+2014,laptop,2196,The powerpoint opened seamlessly in the apple and the mac hooked up to the projector so easily it was almost scary.,powerpoint,NONE,positive,2,4,14
+2014,laptop,1101,Strengths:Well-shaped Weaknesses:A bad videocard!,videocard,NONE,negative,0,39,48
+2014,laptop,1101,Strengths:Well-shaped Weaknesses:A bad videocard!,shaped,NONE,positive,2,15,21
+2014,laptop,845,"Long story, but after many calls to various  offices, I was told that no one can override the depot and that managers  don't take phone calls or e/mails.",depot,NONE,neutral,1,94,99
+2014,laptop,1552,Was very much worth the price i paid.,price,NONE,positive,2,24,29
+2014,laptop,506,With notes saying they replaced the hard drive.,hard drive,NONE,neutral,1,36,46
+2014,laptop,152,The touch pad is among the best.,touch pad,NONE,positive,2,4,13
+2014,laptop,734,I would like to use a different operating system altogether.,operating system,NONE,neutral,1,32,48

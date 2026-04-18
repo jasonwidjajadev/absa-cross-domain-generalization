@@ -1,0 +1,849 @@
+id,text,num_aspects,aspect_terms,categories,polarity
+2,They have lots of good deserts and tasty cuban sandwiches,2,deserts; cuban sandwiches,food; food,positive; positive
+3,It's open even when you think it isn't,1,opening hours,anecdotes/miscellaneous,positive
+4,Very decent fried chicken,1,fried chicken,food,positive
+8,This is probably the best place in the cool Springs area to watch a game and eat,2,place to watch a game; eat,ambience; food,positive; positive
+10,Starbucks substitute in boring downtown Tampa. Ugh. Never again!,2,Starbucks substitute; downtown Tampa,anecdotes/miscellaneous; ambience,negative; negative
+11,Order the Tortilla Soup,1,Tortilla Soup,food,positive
+15,Basically same food as rally's for $5 more,2,food; $5 more,food; price,neutral; negative
+16,Don't go for dinner. They close at 6. Really Yvonne L? Negative stars for a restaurant where you you didn't and never intended to eat?,1,closing time,service,negative
+18,"Got the grilled chicken entree. It was delicious but was a small portion. I like the environment here, for sure, though.",3,grilled chicken entree; portion size; environment,food; food; ambience,positive; negative; positive
+19,This is the bomb ! I love this dish. Try it you'll like it !lol,1,dish,food,positive
+21,"Yes, I'm eating here again. Breakfast!",1,Breakfast,food,positive
+22,Order crispy and they bake it up good.,1,crispy,food,positive
+24,The pimento cheese tastes great and is a large portion for a starter - great for sharing!  The fried pickles are also awesome!,3,pimento cheese; portion size; fried pickles,food; food; food,positive; positive; positive
+25,"If you haven't  been here in a good while or if you are used to the same place on the west coast called, Carl Jr. (both are applicable to me), please don't  come here for the turkey burger.  It is no longer on the menu.",1,turkey burger,food,negative
+26,Everything is yummy!,1,everything,food,positive
+27,Allow yourself time to wait on your food,1,waiting time,service,neutral
+28,"Looks like mini burgers, similar to white castle",1,mini burgers,food,neutral
+29,Icky on tap,1,tap drink,drinks,negative
+30,Great breakfast buffet open to the public also ;),1,breakfast buffet,food,positive
+31,Come early for the best service as they fill up really quickly.,1,best service,service,positive
+32,This place had great coffee but the owner sold it so it not there anymore.,2,coffee; owner sold the place,drinks; anecdotes/miscellaneous,positive; neutral
+33,Great Pancakes!!!!!!,1,Pancakes,food,positive
+35,The honey glazed salmon is amazing!,1,honey glazed salmon,food,positive
+36,The real fruit juices and smoothies are the best,1,real fruit juices and smoothies,drinks,positive
+37,"Best General Tso around. Also, try the grilled sweet pork, ask for extra sauce.",3,General Tso; grilled sweet pork; extra sauce,food; food; service,positive; positive; neutral
+38,Great fish and chips!!,1,fish and chips,food,positive
+39,Hours are incorrect on Yelp. They close at 3PM on Saturdays.,1,hours on Yelp,anecdotes/miscellaneous,negative
+41,Great place for breakfast!,1,breakfast,food,positive
+42,Come by for some Jelly Bean sours this weekend!,1,Jelly Bean sours,drinks,positive
+43,Best Mahi fish tacos blackened I have ever had. Great atmosphere and cocktails.,3,Mahi fish tacos; atmosphere; cocktails,food; ambience; drinks,positive; positive; positive
+44,Best steak tartare ever,1,steak tartare,food,positive
+45,Drews Brews = yum!,1,Drews Brews,drinks,positive
+46,Call ahead of time to make sure there isn't a wait.,1,wait time,service,neutral
+47,"Jimmy the manager does what he is best at again, thanks to him this place is now my fav",1,manager Jimmy,service,positive
+48,Great wings. Awesome onion rings. Enjoyed it very much.,2,wings; onion rings,food; food,positive; positive
+49,Mmm Yummy Crab Fries!,1,Crab Fries,food,positive
+51,Dont go inside cause it stinks of stale greasy carpet.  I guess just drive thru.,2,inside smell; drive thru,ambience; service,negative; neutral
+52,"Good peruvian place! For $10 a place, its worth evry bite",2,peruvian place; $10 a place,food; price,positive; positive
+53,You MUST have the popover breakfast!!,1,popover breakfast,food,positive
+54,"Good specials, nice menu",2,specials; menu,food; food,positive; positive
+55,Bubba's Benedict is a great choice is you want a mountain of breakfast and also have time for a nap later.,1,Bubba's Benedict,food,positive
+56,Best lunch/ happy hour in downtown!!! Kenny rocks!,3,lunch; happy hour; Kenny,food; drinks; service,positive; positive; positive
+58,Great atmosphere... Live music... Excellent drinks.,3,atmosphere; live music; drinks,ambience; ambience; drinks,positive; positive; positive
+59,Ordered the pad Thai shrimp and it was good!,1,pad Thai shrimp,food,positive
+60,Super Spicy Roll!,1,Super Spicy Roll,food,positive
+64,Using my coupon to save $$$$$$,1,coupon savings,price,positive
+65,The yum yum roll is delicious!,1,yum yum roll,food,positive
+67,Drinks with Jess :),1,Drinks,drinks,positive
+68,The music in the bar is a bit loud!,1,music volume,ambience,negative
+69,Buche du Noel. Yum.,1,Buche du Noel,food,positive
+71,Lots of great 100 anniversary specials on now!,1,100 anniversary specials,price,positive
+72,College crowd dive bar scene. Friendly folks & lots of Irish eye candy ;) hahaha,2,college crowd dive bar scene; friendly folks,ambience; service,neutral; positive
+73,Fish and chips are very good.,1,Fish and chips,food,positive
+74,Good food and great beer. Great place for friends to get together and catch up.,3,food; beer; place for friends to get together,food; drinks; ambience,positive; positive; positive
+77,"Michelob on tap. No lie. And, a very fine burger. Like your mom used to make. Only better.",2,Michelob on tap; burger,drinks; food,positive; positive
+78,Great good and service.,2,good; service,food; service,positive; positive
+79,"Many locations of Buffalo Wings & Rings open at 11:00 a.m., but Tennessee's inaugural location opens at 10:30 a.m. Monday through Saturday!!!",1,opening hours,anecdotes/miscellaneous,positive
+80,"Great hoagies, great bread!  Cutlets....meh
+
+My go to sandwich: A Cut Above Italian w/ oil/vinegar, l/t/o, hot peppers, sweet peppers, & pickles",3,hoagies; bread; cutlets,food; food; food,positive; positive; negative
+81,delicious bloody Mary's!,1,bloody Mary's,drinks,positive
+83,Some of the best Chinese food I've had in New Orleans. Wait time is rarely over 15 minutes. No delivery but the food makes up for it,3,Chinese food; wait time; no delivery,food; service; service,positive; positive; negative
+84,The staff is so nice sometimes you get hugs:),1,staff,service,positive
+85,Their Gluten Free section is in the back of the produce section in the specialty foods area.,1,Gluten Free section,food,neutral
+86,Bangers and mash.  Just like last time.,1,Bangers and mash,food,positive
+87,Solid late night Chinese take out,1,Chinese take out,food,positive
+88,"They are slow on service, it took 20 minutes for the server to approach on a very slow Thursday night.",1,slow service,service,negative
+89,Not a bad seat in the place,1,seat,ambience,positive
+90,Very slow service. Order as soon as you come in.,1,service speed,service,negative
+92,Like the surf and turf (better meat to bread ratio) and good fries,3,surf and turf; meat to bread ratio; fries,food; food; food,positive; positive; positive
+93,Hangover food,1,Hangover food,food,neutral
+97,"New ownership, $1.00 drafts all day, and very nice food....",2,$1.00 drafts; very nice food,drinks; food,positive; positive
+99,Clean bathrooms. So let the beers flow!,2,bathrooms; beers,ambience; drinks,positive; positive
+100,It's free first weekend if you have a Bank of America card!,1,free first weekend,price,positive
+101,Everything on the menu is authentic!,1,menu,food,positive
+102,"Self serve onions, relish, mayo?  And FREE caramelized onions?  Yes!",2,"self serve onions, relish, mayo; free caramelized onions",food; food,positive; positive
+104,"Good biscuits and sausage gravy, but you've got to ask for it because it isn't in the menu.",2,biscuits and sausage gravy; asking for off-menu item,food; service,positive; neutral
+105,Try the crispy duck confit!,1,crispy duck confit,food,positive
+106,Just had the Korean short ribs . Yum.,1,Korean short ribs,food,positive
+108,Open late and everything is yummy.,2,open late; everything,service; food,positive; positive
+109,"The people here are rude,",1,people,service,negative
+110,Very good shanghai soup dumplings,1,shanghai soup dumplings,food,positive
+111,Stale chips but the queso is oh so good...,2,chips; queso,food; food,negative; positive
+112,Delicious Vegetarian pressed Cuban sandwich!,1,Vegetarian pressed Cuban sandwich,food,positive
+114,Great coffee,1,coffee,drinks,positive
+116,Meatball sandwich,1,Meatball sandwich,food,neutral
+117,They have mocktails.,1,mocktails,drinks,neutral
+118,"The best nail salon around, both in appearance and professionalism.",2,appearance; professionalism,ambience; service,positive; positive
+120,Pizza spice!,1,pizza spice,food,positive
+121,Save room for dessert. It is soooooo good. You definately don't want to miss out on trying it.,1,dessert,food,positive
+126,Great tasty food,1,food,food,positive
+128,Great breakfast and lunch,2,breakfast; lunch,food; food,positive; positive
+129,Try the Calamari!,1,Calamari,food,positive
+130,"New Fall Menu is amazing! If at brunch Sat or Sun, you must try the Rabbit with a creamy polenta fresh micro greens and sauteed kale! Delish!",2,"New Fall Menu; Rabbit with creamy polenta, fresh micro greens, and sauteed kale",food; food,positive; positive
+131,Yum.  Curry fried rice is great.  Big portions.  Warning.  You will get tired of rice for a few weeks.  Unless you are Asian lol.,3,Curry fried rice; Big portions,food; food,positive; positive
+133,Grilled chicken plate with tzatziki sauce,2,grilled chicken plate; tzatziki sauce,food; food,neutral; neutral
+134,Cute little local owned coffee shop. Good coffee and delicious snacks.,2,coffee; snacks,drinks; food,positive; positive
+135,Khole suggested the mac and cheese and it was amazing! Def will be back!,1,mac and cheese,food,positive
+137,Owner is really sweet and takes the time to explain the ingredients in each product and the effects of the plant.,1,Owner,service,positive
+141,Great! Rachel was awesome.,1,Rachel,service,positive
+143,Veg biryani was ok.chicken was bad. Neither were true biryanis. The rice had a horrible red dye,3,veg biryani; chicken; rice,food; food; food,neutral; negative; negative
+144,The Duchess = combo of marzipan on cream on lemon/raspberry white cake that's moist and yummy (better than this sounds!). Worth the price.,2,marzipan on cream on lemon/raspberry white cake; price,food; price,positive; positive
+145,Pineapple-basil is the best flavor,1,Pineapple-basil,food,positive
+146,They have bathrooms in the restaurant.,1,bathrooms,anecdotes/miscellaneous,neutral
+147,Great customer service on every visit,1,customer service,service,positive
+148,"It is now more of a restaurant then a bar. And I love that! Spanish style food and drink menu, salsa music playing in the background. Great atmosphere. Super clean. Friendly staff.Try the coconut mojitos (garnished with actual mini coconuts!) Or the Passion Fruit Margarita (yum!) New menu. Mainly Everything is Spanish style (rice and beans, tostones, maduros,etc). They have a larger dining area on the 2nd floor and an outdoor patio that's only accessible through the inside of the bar.",6,Spanish style food; coconut mojitos; Passion Fruit Margarita; salsa music; Great atmosphere; Friendly staff,food; drinks; drinks; ambience; ambience; service,positive; positive; positive; positive; positive; positive
+149,Great food. Try the steak kabobs. Very yummy!,2,food; steak kabobs,food; food,positive; positive
+150,Pokie rolls at the dessert bar!,1,Pokie rolls,food,positive
+154,"Nice service, good ambiance, delicious coffee and lavender blackberry scones!",4,service; ambiance; coffee; lavender blackberry scones,service; ambience; drinks; food,positive; positive; positive; positive
+156,"Nice atmosphere, delicious sushi and nice wait staff.",3,atmosphere; sushi; wait staff,ambience; food; service,positive; positive; positive
+157,The chips are way too salty.,1,chips,food,negative
+160,Home made falafel! Yes pls!,1,home made falafel,food,positive
+162,Cool little place with great pizza and service. The Sonoran pizza was excellent.,2,pizza; service,food; service,positive; positive
+164,"Met one of the owners, awesome vibe in the place",2,owner; vibe,anecdotes/miscellaneous; ambience,positive; positive
+166,Chicago style awesomeness.,1,Chicago style,food,positive
+170,Friday drink with friends.,2,drink; friends,drinks; anecdotes/miscellaneous,neutral; neutral
+172,Right now there is a promo for Special Olympics whenever you order a Grasshopper!!,2,Grasshopper; promo for Special Olympics,drinks; anecdotes/miscellaneous,positive; positive
+173,Everything is delicious!,1,everything,food,positive
+176,Pint and pizza slice for $5.95 is the way to go!,1,Pint and pizza slice for $5.95,price,positive
+177,Take your food to go it's too Hot inside with no AC!,1,too Hot inside with no AC,ambience,negative
+180,Great time!! Bang bang shrimp were AWESOME!!,1,Bang bang shrimp,food,positive
+181,Wow the Saturday night band is terrible  tonight,1,Saturday night band,anecdotes/miscellaneous,negative
+184,Very fresh and tasty. Good deal at lunch.,2,fresh and tasty; good deal at lunch,food; price,positive; positive
+185,"Best beets I've EVER had!! Not too ""dirty"". Citrus marinated with almonds!",1,beets,food,positive
+186,The fondue is amazing and makes such special event!,1,fondue,food,positive
+187,Just opened today! 45 minutes and still no food. I would hold off on coming here until they work off the timing issues.,1,timing issues,service,negative
+188,They have glass tumblers for self-service water!,1,glass tumblers for self-service water,service,positive
+189,$5 burritos,1,burritos,price,positive
+190,Fried Pickles are good.,1,Fried Pickles,food,positive
+191,Come early if you're here for happy hour. The restaurant packs up quickly!,2,happy hour timing; crowded restaurant,service; ambience,neutral; negative
+193,Lobster ravioli is excellent!!,1,lobster ravioli,food,positive
+194,This a great locally owned coffee shop!,1,locally owned coffee shop,anecdotes/miscellaneous,positive
+195,Great spot for brunch,1,brunch,food,positive
+196,This place makes me wish i had the stomach of an elephant because i just want to eat everything. EVERYTHING. all in one sitting. Is that a crime? I blame CSK.,1,everything,food,positive
+198,Ok prices but slow service.,2,prices; service,price; service,neutral; negative
+200,Two steak burritos,1,steak burritos,food,neutral
+201,Healthy affordable Breakfast,2,Breakfast; affordable,food; price,positive; positive
+203,Excellent fresh seafood!! Friendly staff!! Clean!! Great place for dinner.,3,fresh seafood; staff; clean,food; service; ambience,positive; positive; positive
+204,"Grab & Go food is available in a case near the counter that includes sandwiches, salads, sides, and more!",1,Grab & Go food,food,positive
+206,The closing time is slightly outdated. They actually close at 9pm on Sunday. Check their website to be sure.,1,closing time,anecdotes/miscellaneous,negative
+207,This place is fantastic!! The food is delicious. I rate customer service five stars. Monday's they have burger specials.,3,food; customer service; burger specials,food; service; price,positive; positive; positive
+208,Best sushi and Asian food that I've had in STL!,1,sushi and Asian food,food,positive
+209,Sarah was awesome! it was my first time and she talked to me the entire time to keep my mind off it. It was a really quick service too-but not rushed! I will be back :).,2,Sarah; quick service,service; service,positive; positive
+210,Update! They now have alfalfa sprouts!,1,alfalfa sprouts,food,positive
+211,"Try the calamari, the chicken Marsala was great, and the ossobuco special was delicious. Great place, highly recommended!",3,calamari; chicken Marsala; ossobuco special,food; food; food,positive; positive; positive
+214,Great Cuban sandwich!,1,Cuban sandwich,food,positive
+215,"Not a big writer but quick review. Must haves are Roti Canai and Mee Siam, the Basil Noodles are also good. Was not a fan of the duck noodles (wasn't a fan so kinda forgot about them). Service was prompt.",5,Roti Canai; Mee Siam; Basil Noodles; duck noodles; Service,food; food; food; food; service,positive; positive; positive; negative; positive
+218,"Excellent service for our party of 15! No issues, hot and fresh food a plenty!",2,service for our party of 15; hot and fresh food,service; food,positive; positive
+220,Picked up menus for my work crew. I was warmly greeted and given plenty of take out menus :),2,warm greeting; take out menus,service; service,positive; positive
+222,Some of the best cheap burgers in the city!,2,burgers; cheap,food; price,positive; positive
+223,It's a renovated bungalow... And it's locally and woman owned. Gotta love it!,2,renovated bungalow; locally and woman owned,anecdotes/miscellaneous; anecdotes/miscellaneous,positive; positive
+224,Waiter needs lesson in wine etiquette...,1,waiter ,service,negative
+225,Get the Larry (chocolate taro boba)!!!,1,Larry (chocolate taro boba),drinks,positive
+226,"4:00 pm great view cheap but great tasting wine. After a hard week of house cleaning a nice finish!
+
+I love it....",3,great view; great tasting wine; cheap,ambience; drinks; price,positive; positive; positive
+227,Salad time.,1,salad,food,neutral
+229,Fried bbq oysters are a must have!,1,fried bbq oysters,food,positive
+233,The have the best Posole in town!!! Hands down! Reminds me of my mom's posole back in Mexico! The food is so authentic and taste home cooked!,2,Posole; authentic,food; food,positive; positive
+234,Excellent service and great food.,2,service; food,service; food,positive; positive
+235,"special right now for vday, buy 4 get 2 free!!!",1,buy 4 get 2 free,price,positive
+236,Nice place and good food for the price. Good customer service as well,4,place; food; price; customer service,ambience; food; price; service,positive; positive; positive; positive
+237,Yes please! The charbroiled oysters are amazing!,1,charbroiled oysters,food,positive
+239,"Friendly people, great drinks!",2,friendly people; great drinks,service; drinks,positive; positive
+240,Best Mexican in Nashville,1,Mexican,food,positive
+241,Tuna with pepper jack is my fav!,1,Tuna with pepper jack,food,positive
+243,Going with a family meal is easy on the budget,1,family meal,price,positive
+244,Holy Frenchulatta!  This thing is HUGE!,1,Frenchulatta,food,positive
+246,Nice bar and good food great addition to Mayfair!,2,bar; food,drinks; food,positive; positive
+247,Check out the Growler and Tasting Bar at the very back of the store! They also have some very unique and cool growlers to purchase.,1,Growler and Tasting Bar,drinks,positive
+248,"Needs to be cleaned up
+Nice salad bar
+I was hoping for excellence but only average",3,cleaned up; salad bar,ambience; food,negative; positive
+249,"Great ""sunset"" happy hour menu!",1,happy hour menu,price,positive
+250,"Tried a ham ""diablo"" today and did not enjoy it. I love hot & spicy  food but the diablo really didn't work for me.
+I like the theory of spicy meats and spiced up ""hot""  cheese, but spiced up with too much crushed red peppers.
+In my opinion this didn't work, way too much crushed red pepper, should have taken a pic, but trust me it was way over seasoned. My eyes were tearing it was so hot , usually that's a good thing but it was all due to too much crushed red pepper.",3,"ham ""diablo""; cheese; crushed red pepper",food; food; food,negative; negative; negative
+252,Patio + limonata: perfect for a beautiful day like this!,2,patio; limonata,ambience; drinks,positive; positive
+253,"Awesome music and dancing, ALWAYS",1,music and dancing,ambience,positive
+258,Seems to have changed since last going 9 months ago. This time I had great service!,1,service,service,positive
+260,Their cafe com leche is made with a lot of sugar.,1,cafe com leche,drinks,negative
+262,Huge menu like cheesecake factory.  Beer not so great.  Double ipa not flavorful,3,menu; beer; double ipa,food; drinks; drinks,positive; negative; negative
+266,Spicy tofu = AMAZING. Pancakes are nothing special - dont get them,2,spicy tofu; pancakes,food; food,positive; negative
+267,Really good sight lines to the TVs from the bar!,1,sight lines to the TVs,ambience,positive
+268,The bakery items are fresh. Love the chicken pie. Fluffy crush.,2,bakery items; chicken pie,food; food,positive; positive
+269,Addictive!   Hot cookies that taste amazing. Not much more to say!,1,hot cookies,food,positive
+271,Call ahead or be prepared to wait. And I do mean WAIT!!! Take mine and everyone else's advice...CALL AHEAD!!! I'm gonna post a pic of the menu so nobody else has to go through this.,2,WAIT; menu,service; food,negative; neutral
+274,Try the Buttermilk Fried Chicken entree!,1,Buttermilk Fried Chicken entree,food,positive
+275,Great drinks and food!,2,drinks; food,drinks; food,positive; positive
+277,Wings are great!  Service is slow.,2,wings; service,food; service,positive; negative
+278,You must try the muffins! All made in house and sinfully good!,1,muffins,food,positive
+279,Great food eating in or taking out!,1,food,food,positive
+280,Best seafood in the area!,1,seafood,food,positive
+281,The best bakery in the Ardmore area.,1,bakery,food,positive
+282,"Never have a bad experience here. Fast, friendly and accurate.",3,fast ; friendly; accurate,service; service; service,positive; positive; positive
+283,Amazing! Great coffee and cakes... So many options. I true Italian experience! Deff a must try!,4,coffee; cakes; many options; true Italian experience,drinks; food; food; anecdotes/miscellaneous,positive; positive; positive; positive
+287,Pretty much the same menu as SK Noodle. West Lake beef soup as an appetizer is new.,2,menu; West Lake beef soup as an appetizer,food; food,neutral; neutral
+288,"There is a big sign here that says ""Eat More Chili"" - seems like bad advice for people who will boarding a plane soon",1,Eat More Chili,anecdotes/miscellaneous,negative
+290,Ashley is the waitress to have! If you're lucky enough to be there when she is working so to sit in her section. She's the best!,1,Ashley,service,positive
+292,Love there pizza!!!!!,1,pizza,food,positive
+293,Don't feel like cooking? Try a turkey!,1,turkey,food,positive
+294,Fantastic coffee and tea selection.,1,coffee and tea selection,drinks,positive
+295,"Egg nog creme caramel ""flan"" with sugar cranberries, pistachios, & nutmeg = one of he best desserts I've EVER had! - And I love dessert :-) :-)",1,Egg nog creme caramel flan,food,positive
+297,"Nice cocktails, nice food, nice location!",3,cocktails; food; location,drinks; food; ambience,positive; positive; positive
+298,Turkey club gyro with pasta salad. The bacon and pesto mayo combination is remarkable.,2,Turkey club gyro; bacon and pesto mayo combination,food; food,positive; positive
+299,Quality Coffee! A local Starbucks alternative,1,Quality Coffee,drinks,positive
+300,"Well today I started with the shrimp and chicken shrimp rolls, they were great specialy the peanut sauce...them I moved to the soup.",2,shrimp and chicken shrimp rolls; peanut sauce,food; food,positive; positive
+301,Best brunch in the Clearwater area. Come and catch some of the best female illusionists in the area. Don't forget to tip!!,2,brunch; female illusionists,food; anecdotes/miscellaneous,positive; positive
+303,"They have Blueberry Stoli! Also, $10 minimum on credit cards.",2,Blueberry Stoli; $10 minimum on credit cards,drinks; price,positive; neutral
+304,"A good place for a casual bite, mostly 40+ crowd, somewhat overpriced.",2,casual place; somewhat overpriced,ambience; price,positive; negative
+307,Kobe beef buger single patty only 10.99!,2,Kobe beef burger; 10.99,food; price,positive; positive
+308,Gluten-free bakery!,1,gluten-free bakery,food,positive
+311,"The richest, most divine fresh heavy cream comes from Tanner's.   With a balloon whisk, I hand-beat this cream into decadent Creme Chantilly in less than two minutes.   Left to his own devices, BAE would consume this whipped cream by the bowlful.",2,fresh heavy cream; Creme Chantilly,food; food,positive; positive
+312,Nelson at the liquor store is great.  Friendly and helpful.,1,Nelson,service,positive
+313,Lunch specials are great.,1,lunch specials,food,positive
+316,I love to get carrot juice with ginger added- makes you feel alive after a night out!,1,carrot juice with ginger,drinks,positive
+318,Sushi took forever to arrive. Food was ok.,2,forever to arrive; food,service; food,negative; neutral
+321,"Amazing food in such a small location.
+Always hot and fresh.
+Delivery is always quick",2,food; delivery,food; service,positive; positive
+322,Friendly staff. Good selection of both ice cream and yogurt.,2,staff; selection of both ice cream and yogurt,service; food,positive; positive
+325,One question... When was the last time the Health Department inspected this place??? Kitchen looked down right filthy!,2,Health Department inspection; kitchen,anecdotes/miscellaneous; ambience,negative; negative
+327,"Very relaxing, beach view; what more can one ask for ;)",1,relaxing beach view,ambience,positive
+328,I had the catfish poboy. The fish was fresh and everything was hot; even though they were closing in less than 30 minutes. Can't wait until I can sample the menu more.,3,catfish poboy; fish ; food ,food; food; food,positive; positive; positive
+329,Good Italian restaurant with more than just the typical Italian-American fare.,1,Italian restaurant,food,positive
+331,True fresh squeezed OJ (and other juices) are available! Delicious!,1,fresh squeezed OJ and other juices,drinks,positive
+332,Coke Zero on tap!,1,Coke Zero on tap,drinks,positive
+333,Try the in house eye of round at the deli. Sliced on the thicker side it makes a killer cold steak sandwich.,2,in house eye of round; cold steak sandwich,food; food,positive; positive
+334,"Awesome service! 
+Great food.
+Decent value",3,service; food; value,service; food; price,positive; positive; neutral
+335,"Hot dog! Best selection in town, home style fries, good fries pickles.  Super friendly people.  Eat here!",4,selection; home style fries; fries pickles; people,food; food; food; service,positive; positive; positive; positive
+337,Just enjoy the very best ! Filet,1,Filet,food,positive
+343,1st time here - seems like a cool place to hang have a cup of your favorite drink!,2,cool place to hang; cup of your favorite drink,ambience; drinks,positive; positive
+344,The best cup of coffee in Tampa,1,cup of coffee,drinks,positive
+346,5 exceptional courses at Big Fork for New Year's....yay!,1,5 exceptional courses,food,positive
+347,16 dollar per person walk weekdays,1,16 dollar per person,price,neutral
+348,great basic menu choice cooked to perfection. the mushroom chops are awesome,2,basic menu choice; mushroom chops,food; food,positive; positive
+350,For the money not a bad choice.,1,money,price,neutral
+351,Great specials during the game! :) wings are in my future....,2,specials; wings,price; food,positive; positive
+352,Free admission on Sundays for Louisiana residents.,1,free admission on Sundays,price,positive
+353,"Good food, really loud hard to carry on a conversation.",2,food; loud environment,food; ambience,positive; negative
+354,And TAMALES !!!! The most amazingingly awesome tamales ! $8 for 6 and yum !!,2,tamales; $8 for 6,food; price,positive; positive
+355,I love delivery,1,delivery,service,positive
+356,This is the undisputed breakfast champion on Dunedin. How is it that gay restaurants are so good.,1,breakfast,food,positive
+357,"I ate Here Friday with a friend an its so good! Monday threw Friday 2 to 5:00 half off appetizers.They are really good.I had the Pho Tai an Cold spring rolls they were amazing,So delicious.Then I was full but greedy I got a Vietnamese poor boy to go but, wanted to taste it an it was so good ended up eating half of it. I felt bad for being greedy but it was really delicious very tasty!!!! I live on the Westbank but don't mind traveling for so good authentic Vietnamese food!!!!!",5,appetizers; Pho Tai; Cold spring rolls; Vietnamese poor boy; half off appetizers,food; food; food; food; price,positive; positive; positive; positive; positive
+359,Everything came out so hot & fresh! Get the corn,2,hot & fresh ; corn,food; food,positive; positive
+360,"scones are to die for, as are the snickerdoodles. yum!",2,scones; snickerdoodles,food; food,positive; positive
+361,"Look for the specials in the board.  They have a good selection of healthy and ""bad"" (which are so yummy) breakfasts.  Great place and friendly staff.",2,"healthy and ""bad"" breakfasts; friendly staff",food; service,positive; positive
+364,Closed or very limited hours,1,hours,anecdotes/miscellaneous,negative
+368,Call in lunch take out order ahead of time. I saw people picking up orders & they were in & out while others waited (= more time for break)!,2,take out order pickup; waited,service; service,positive; negative
+369,The new Crispy Parmasan Shrimp is delicious!!,1,Crispy Parmasan Shrimp,food,positive
+371,"Lovely locally-grown strawberries.  If you can't get to a farmers' market, an excellent option is to come here.",1,locally-grown strawberries,food,positive
+374,Purse Hooks Under the Bar,1,purse hooks,anecdotes/miscellaneous,positive
+375,Bruschetta pizza. No words more need to be expressed.,1,Bruschetta pizza,food,positive
+376,The lunch Shredder Bowls are very tasty (and healthy),1,lunch Shredder Bowls,food,positive
+377,I love the filet sliders!,1,filet sliders,food,positive
+379,More variety than you could ever ask for! All materials & products as well ... Helpful service!,2,variety; Helpful service,food; service,positive; positive
+380,They have stepped up their game. Many more choices now including pho.  Much better than 6 months ago.,1,more choices including pho,food,positive
+382,"Soup & salad combo Thai style, I'd suggest Tom Yum soup and fresh spring roll. Delicious.",2,Tom Yum soup; fresh spring roll,food; food,positive; positive
+383,Overpriced. IMHO.  Sides ain't all that.,2,overpriced; sides,price; food,negative; negative
+384,Strawberry lean smoothie a nice way to start the day.,1,Strawberry lean smoothie,drinks,positive
+385,Complimentary BBQ chips today!  What a nice surprise!,1,BBQ chips,food,positive
+388,Slow service. I'm not sure it was worth it to eat here today,1,service,service,negative
+389,Ordered the Katrina and it was sooooo good. Love this place!!,1,Katrina,food,positive
+390,Wings were pretty good.  Cheeseburger was average.,2,wings; cheeseburger,food; food,positive; neutral
+391,Salad!!!! Come to Mama!!,1,Salad,food,positive
+392,Cajun corn fritters!!!,1,Cajun corn fritters,food,positive
+393,Great view of the river from VIP section!,1,view of the river,ambience,positive
+394,"If you're looking to save some cash, split a burger with a friend (theyre huge) or order the $4 burger snack. They will dress it like any of their signature burgers!",3,save some cash; burger; $4 burger snack,price; food; food,positive; positive; positive
+395,Love this place. Great rueben palm on tap cant be better,1,rueben palm on tap,drinks,positive
+397,"Has a small section of cooked, hot & ready to eat items near their bakery.",1,"cooked, hot & ready to eat items",food,positive
+400,Mojo pork sandwich is AMAZING!,1,Mojo pork sandwich,food,positive
+401,Deliciousness!!  Closest thing to In-N-Out Burgers you'll find around here.,1,Deliciousness,food,positive
+403,Best sandwiches in town.  Try the Stan the Man,1,sandwiches,food,positive
+404,Spicy Rice Soup and Ginger Salad that accompanies some of the Hibachi dinners is excellent.,2,Spicy Rice Soup; Ginger Salad,food; food,positive; positive
+406,Must try the Habanero Tomato w/ Goat Cheese & Green Onion Soup!!! So freakin good!!,1,Habanero Tomato w/ Goat Cheese & Green Onion Soup,food,positive
+407,Great menu and low prices,2,menu; low prices,food; price,positive; positive
+408,Save yourself a trip downtown: they have Italian loaves of bread from the Hill as well as World Fair donuts!,2,Italian loaves of bread; World Fair donuts,food; food,positive; positive
+409,Check in here for a free ice cream scoop.,1,free ice cream scoop,food,positive
+410,"Cuban! Best expresso in town, plus incredible varietals of beans for regular coffee. Brew options are unique. Park behind off Hermitage Av.",3,expresso; varietals of beans for regular coffee; brew options,drinks; drinks; drinks,positive; positive; positive
+411,"Sit at the bar with Candace, who is super nice, makes great drinks & is knowledgeable about the menu too!",3,Candace; great drinks; knowledgeable about the menu,service; drinks; food,positive; positive; positive
+412,Fried dumplings!,1,fried dumplings,food,positive
+413,Vodka gimlets: impressed that they asked whether we Rose's or fresh lime,2,vodka gimlets,drinks,positive
+414,The 20% show us your scrub offer is not valid.,1,20% scrub offer,price,negative
+415,Lovely staff.....byob!,2,staff; byob,service; anecdotes/miscellaneous,positive; positive
+417,Great service. AMAZING burgers.,2,service; burgers,service; food,positive; positive
+418,"Sundays in the summer are nice, relaxed, and Comfortable at this Starbucks",1,Sundays in the summer,ambience,positive
+419,Great beer selection.,1,beer selection,drinks,positive
+420,So just had take out again...I had the Dry Pepper Chicken AGAIN and it was just as delicious as the first time!!! My wife had the Penang Seafood Fried Rice which was out of this world!!! Love this place!!!!!,2,Dry Pepper Chicken; Penang Seafood Fried Rice,food; food,positive; positive
+423,The blueberry tea here is well worth the price! Very delicious.,2,blueberry tea; price,drinks; price,positive; positive
+424,The fried shrimp tacos are so yummy!!! Fast service and cold beer!,3,fried shrimp tacos; service; cold beer,food; service; drinks,positive; positive; positive
+427,WAFFLES with strawberries!!! yay,1,waffles with strawberries,food,positive
+428,Love the concept and the food.  F.U.N.!  Definitely returning!,2,food; concept,food; anecdotes/miscellaneous,positive; positive
+429,Do yourself a favour & have your sandwich on the sunflower bread! P.S. be prepared for it to be lined up out the door @ lunch.,2,sandwich on the sunflower bread; lined up out the door @ lunch,food; service,positive; negative
+430,"This place is a very good place to eat, drink and be merry! They have a pretty good selection of whiskey, especially for the area. The food is very good and the prices are pretty good.",3,food; selection of whiskey; prices,food; drinks; price,positive; positive; positive
+431,They have Trinidadian pepper sauce!,1,Trinidadian pepper sauce,food,positive
+432,This place is actually open until 10 pm not 9.,1,opening hours,anecdotes/miscellaneous,neutral
+433,Chinese new year specials now!,1,Chinese new year specials,food,neutral
+434,$6.00 for a bottle of Miller Lite!,1,bottle of Miller Lite,price,positive
+436,"Veal Marsala was very good, but the Risotto (shrimp, pancetta, fennel, and mushrooms) was INCREDIBLE.",2,Veal Marsala; Risotto,food; food,positive; positive
+437,Yummy vegan pizza.,1,vegan pizza,food,positive
+439,OMG! the band they have here today (12/27 @ 2pm) is SO LOUD! My ears are still ringing & they stopped playing like 5 minutes ago! Crazy! :-/,1,band,ambience,negative
+440,Have a donut (or two) and enjoy a scoop of Bassett's ice cream (in the same store),2,donut; Bassett's ice cream,food; food,positive; positive
+441,"Go to this bar and have Sarah take care of you she is wonderful, skip the lobby bar Courtney and the crew are not outgoing and they ignore you.",2,Sarah; lobby bar Courtney and the crew,service; service,positive; negative
+442,Amazing Brunch!!!,1,Brunch,food,positive
+443,"In a hurry? This is not your post office. Every time I come here, there is at least a 20 min wait",1,wait,service,negative
+446,"Perhaps the best rice and beans in town. The beans come in an edible chip cup like at Los Agaves, but are much richer and tastier. Try eating the cup with the beans!",2,rice and beans; beans in an edible chip cup,food; food,positive; positive
+448,Go for the matcha!,1,matcha,drinks,positive
+451,"Always sit at sushi bar and only had the sushi, always awesome!",2,sushi; sushi bar,food; ambience,positive; positive
+452,"The food was good, staff was friendly but the entire back part of the dining room smelled like a dirty bathroom. Thought maybe it was just me but several other patrons commented on the smell.",3,food; staff; back part of the dining room smelled,food; service; ambience,positive; positive; negative
+454,Great service and pretty belly dancer!,2,service; belly dancer,service; ambience,positive; positive
+455,The waitress we had understands vegetarian needs. Sit outside. The soup can feed a small army just a heads up,3,waitress; sit outside; soup,service; ambience; food,positive; positive; positive
+456,Gets more crowded as the week goes by.,1,crowded,ambience,neutral
+457,Great hamburgers!!! Exciting atmosphere - we actually went twice on this trip.,2,hamburgers; atmosphere,food; ambience,positive; positive
+458,Troegs java head stout with a breakfast burrito.,2,Troegs java head stout; breakfast burrito,drinks; food,neutral; neutral
+467,Smash fries the best fries ever.,1,Smash fries,food,positive
+468,Great margaritas!!!,1,margaritas,drinks,positive
+470,"Good donuts, juicy chicken, and real friendly staff.",3,donuts; chicken; staff,food; food; service,positive; positive; positive
+471,Lattes here are very good!,1,Lattes,drinks,positive
+473,Poor service,1,service,service,negative
+474,"No orange, no vodka = surprise drink. Yum.",1,surprise drink,drinks,positive
+475,Mama's Lasagna... Magnifico ;-),1,Mama's Lasagna,food,positive
+476,"Thai Samosas, Drunken Noodles and Pad Thai are amazing. Get the deviled eggs whenever they are on the specials.",4,Thai Samosas; Drunken Noodles; Pad Thai; deviled eggs,food; food; food; food,positive; positive; positive; positive
+478,"Great grub, friendly service and cold drinks.",3,grub; friendly service; cold drinks,food; service; drinks,positive; positive; positive
+480,I ordered BBQ chicken there.  It was great taste. Really recommendation for it,1,BBQ chicken,food,positive
+481,Homemade style icecream with inventive and exceptionally tasty flavors.  Sorbet as well.  Even have Lactaid! Can't decide? Trailer Trash!,4,homemade style icecream; inventive and exceptionally tasty flavors; sorbet; Lactaid,food; food; food; food,positive; positive; positive; positive
+482,"The food is amazing... Bottomless glass of wine!!!
+Highly recommend...  A must do !",2,food; bottomless glass of wine,food; drinks,positive; positive
+483,They don't take reservations here so come early or send a scout. Best sushi in SB!,2,no reservations; sushi,service; food,negative; positive
+485,Get the lobster roll!,1,lobster roll,food,positive
+486,Ask for the super spicy habanero relish on the side!,1,super spicy habanero relish,food,positive
+487,Indiana craft beer week!,1,craft beer,drinks,positive
+491,"Great food, great atmosphere, great service!",3,food; atmosphere; service,food; ambience; service,positive; positive; positive
+492,The earlier the better. They are open on Sunday's,1,opening hours,service,neutral
+493,They have kumquats!!! :D,1,kumquats,food,positive
+494,Dinner last nite for restaurant week 1-22-15.. Steak was a little under seasoned,1,Steak,food,negative
+495,Everything about Butcher Bar is perfect,1,everything,anecdotes/miscellaneous,positive
+497,"I ate a Fish taco, and Shrimp taco and had a white Sangria to wash it all down. Oh so good!",3,Fish taco; Shrimp taco; white Sangria,food; food; drinks,positive; positive; positive
+499,Triple Karmelit is no longer on draft,1,Triple Karmelit,drinks,negative
+501,"Don't be afraid if there's a wait...stick around, enjoy their lobby bar, have a Peroni, and prepare for an awesome meal!",4,wait; lobby bar; Peroni; meal,service; drinks; drinks; food,neutral; positive; positive; positive
+502,Great food and superb service! Highly recommend!,2,food; service,food; service,positive; positive
+503,"Learned the hard way, closed on Mondays.",1,closed on Mondays,anecdotes/miscellaneous,neutral
+504,Service and meal wait time is extremely slow and they aren't overly busy.,1,wait time,service,negative
+506,Friendly service,1,service,service,positive
+507,Great hamburger!,1,hamburger,food,positive
+508,Best place to get fresh,1,fresh,food,positive
+509,"Parking during lunch time is tricky, yet well worth the effort",1,parking during lunch time,anecdotes/miscellaneous,neutral
+510,Half-priced lattes today and Friday! Just mention it when you order.,2,lattes; half-priced,drinks; price,positive; positive
+512,Great pizza anytime!! This place is also solar powered.,2,pizza; solar powered,food; anecdotes/miscellaneous,positive; neutral
+514,Ask for your pita toasted well done. Yum,1,pita toasted well done,food,positive
+516,Best pizza in Irvington!! We get the bread sticks as a meal they are so good!!!,2,pizza; bread sticks,food; food,positive; positive
+517,Tomatoes will be in full harvest next week! Bacon!,2,tomatoes; bacon,food; food,positive; positive
+518,The Friday crowd at 7 is pretty heavy. Try to come early because Happy hour ends at 7.,2,Friday crowd at 7; Happy hour,anecdotes/miscellaneous; price,negative; neutral
+520,Wowwwwwwwww. Turkey Ruben was worth every penny of the $13.49,2,Turkey Ruben; $13.49,food; price,positive; positive
+523,Amazing fried catfish!  Tender and juicy!,1,fried catfish,food,positive
+524,"Very friendly and helpful staff. Great quality. Expensive, but worth it.",3,staff; quality; expensive,service; food; price,positive; positive; negative
+525,Seriously order the trashed wings,1,trashed wings,food,positive
+526,You absolutely must try the crab empanada. It's a can't miss!,1,crab empanada,food,positive
+528,Quite possibly the best grilled cheese I've ever had.,1,grilled cheese,food,positive
+532,They have wine tastings!,1,wine tastings,drinks,positive
+533,Buffalo shrimp are very good,1,Buffalo shrimp,food,positive
+540,Sit outside until the smell of remodeling clears.,1,smell of remodeling,ambience,negative
+541,This is my 3rd time here. Love it. I won't go anywhere else. The people are great.,1,people,service,positive
+542,Expect awful customer service. Relish it. Bask in it.,1,customer service,service,negative
+543,Happy hour! Best sushi in Tampa bay,2,sushi; happy hour,food; drinks,positive; positive
+544,"Done well. Good decor, great service and excellent food! Can't complain. A++
+
+Can't beat 2/$20! One of the better Chilis around.",4,decor; service; food; 2/$20,ambience; service; food; price,positive; positive; positive; positive
+545,Delicious beer.,1,beer,drinks,positive
+546,Great food/great price and the best coffee EVER!,3,food; price; coffee,food; price; drinks,positive; positive; positive
+548,Call in your order ;-) for the best hot chicken around,2,hot chicken; call in your order,food; service,positive; positive
+549,Good people working here.,1,people working here,service,positive
+551,They are now open for brunch in Saturday's and Sunday!,1,brunch,anecdotes/miscellaneous,positive
+552,Cozy and friendly feel. Great grub and drinks.,3,cozy and friendly feel; grub; drinks,ambience; food; drinks,positive; positive; positive
+553,"Brownie is good, but very, very sweet",2,"brownie; very, very sweet",food; food,positive; negative
+554,One of the cleanest locations I've been to.,1,cleanest locations,ambience,positive
+555,"Good southern type food, the server Sisi was very attentive, awesome service.",3,southern type food; server Sisi; service,food; service; service,positive; positive; positive
+557,Awesome Angus Burger!!!,1,Angus Burger,food,positive
+558,Bring noise cancelling head phones. Their over head music is painfully loud.,1,over head music,ambience,negative
+559,The s'more was pretty awesome!,1,s'more,food,positive
+562,"Come when they are roasting the coffee beans, its a great atmosphere!",1,atmosphere,ambience,positive
+563,Crab bisque is out of this world,1,Crab bisque,food,positive
+564,It took 10 minutes to get a pitcher of beer. No apologies and it's slow. Not cool Blueberry Hill.,2,slow; pitcher of beer,service; drinks,negative; negative
+568,"Make your own opinion, but the "" spicy Honey garlic"" wings are awful , unless you like tomato ketchup sauce on them . Could not taste or see any honey! So we sent them back. We eat a lot of wings & honey garlic is one of our GOTO flavors.",1,spicy Honey garlic wings,food,negative
+570,"Pre-made wraps: quick, filling, delicious!",1,Pre-made wraps,food,positive
+572,The place is swank....and very affordable! Try it...today,2,swank; very affordable,ambience; price,positive; positive
+576,Typical shopping center pizza place.  Don't expect too much and you won't be disappointed.,2,pizza; shopping center,food; ambience,neutral; neutral
+581,Fun atmosphere! Love the food!!,2,atmosphere; food,ambience; food,positive; positive
+582,"Came here hoping they would have frozen yogurt (I'm lactose intolerant) - no such luck. They DO have sherbet though, so I got a scoop in a cone.",2,frozen yogurt; sherbet,food; food,negative; positive
+583,The macaroni and cheese is mostly cheese and no macaroni. A hot velvetta sundae.,2,macaroni and cheese; hot velvetta sundae,food; food,negative; neutral
+587,"Having a Guacamoli Bacon Burger, YUM!",1,Guacamoli Bacon Burger,food,positive
+588,Wine tastings for happy hour,2,wine tastings; happy hour,drinks; price,positive; positive
+589,Get 20 percent off peak plus membership w Yelp checkin !,1,20 percent off peak plus membership,price,positive
+591,The buffalo cauliflower appetizer is so worth getting. Don't worry the buffalo and ranch is on the side,2,buffalo cauliflower appetizer; buffalo and ranch on the side,food; food,positive; positive
+592,Fake meat is PHENOMENAL! Best I have ever had.,1,fake meat,food,positive
+596,Go for the Cuban. Stay for the black beans,2,Cuban; black beans,food; food,positive; positive
+597,Salmon platter....yeah boy!,1,Salmon platter,food,positive
+598,So fresh. So nice. Just pull off that freeway and take a break.,2,fresh; nice,food; ambience,positive; positive
+600,Quick post work snack and beverage.  Half price drinks till 7.,2,post work snack; half price drinks,food; drinks,positive; positive
+602,"$$$cash only, cash only, cash only ! $$$",1,cash only,price,neutral
+603,Good fro yo,1,fro yo,food,positive
+605,Get the mojito - or the caipirinhas or the guacamole and chips. Or all three!,3,mojito; caipirinhas; guacamole and chips,drinks; drinks; food,positive; positive; positive
+606,Great pizza and atmosphere!,2,pizza; atmosphere,food; ambience,positive; positive
+607,Cider on tap!,1,cider on tap,drinks,positive
+609,"We had Jeremy as our server this evening -- helpful, friendly & knowledgeable. Thanks for the great service Jeremy :)",1,Jeremy,service,positive
+615,"Great dive, love the breakfast food! Mmm, tator tots too...",2,breakfast food; tator tots,food; food,positive; positive
+616,Yazoo Pale Ale on draft & live music!,2,Yazoo Pale Ale on draft; live music,drinks; anecdotes/miscellaneous,positive; positive
+617,This place is closed on Sundays which is bad for me. :-/,1,closed on Sundays,anecdotes/miscellaneous,negative
+618,You can order anything. Always fresh and always delicious!,2,fresh; delicious,food; food,positive; positive
+621,"It was ok , the salsa could of been better, Rita's for happy hour , $$$",2,salsa; happy hour prices,food; price,negative; neutral
+622,Truly a garden of brew.,1,brew,drinks,positive
+625,Try the fried coconut milk! It sounds weird but it's got a nice texture and tastes sweet but savory. Like a dessert.,1,fried coconut milk,food,positive
+629,Yummy!,1,food,food,positive
+635,Try the pickled  sichuan chicken!,1,pickled sichuan chicken,food,positive
+636,Not sure about anything else but the fish and chips and mushy peas are great. Tonight my wife had the Todd in the hole. It was good but a bit dry. I believe if you come way before closing I bet it would be amazing. Come in and say Mike sent you. They might look at you a bit strange but say it anyways.,3,fish and chips and mushy peas; Todd in the hole; staff reaction to saying Mike sent you,food; food; service,positive; neutral; neutral
+637,Service was exceptional and great salad and veggie burger.,3,service; salad; veggie burger,service; food; food,positive; positive; positive
+638,Great mom & pop breakfast joint!,1,breakfast,food,positive
+639,"Order the cauliflower. Trust me. 
+Great wine list!",2,cauliflower; wine list,food; drinks,positive; positive
+642,Yummmmmm,1,Yummmmm,food,positive
+649,Skip the soft drinks. $3.25 for a 10-ounce bottle of Coke?!,2,soft drinks; $3.25 for a 10-ounce bottle of Coke,drinks; price,negative; negative
+650,Ask questions and suggestions from the staff!,1,staff,service,positive
+651,Fresh & delicious! One of my new go to sushi places.,1,fresh & delicious,food,positive
+652,Cash only for a $150 bowling tab in my opinion is ridiculous.,1,cash only ,price,negative
+655,This is really good every thing was great good hot coffee every thing good flavor.,2,flavor; hot coffee,food; drinks,positive; positive
+656,Strawberry lemonade is the best!!!! Love love love it!!!,1,Strawberry lemonade,drinks,positive
+658,Try the Americano DECAF if you're having a bad day. It's good for relaxation.,1,Americano DECAF,drinks,positive
+659,Best beignets in town...great for soaking up the alcohol from the night before:),2,beignets; alcohol,food; drinks,positive; neutral
+660,Yummy,1,food,food,positive
+662,"California club on wheatberry toast, yum!",1,California club on wheatberry toast,food,positive
+663,Cedar plank salmon was melt in your mouth delish!,1,Cedar plank salmon,food,positive
+667,Spinach dip is amazing! Come at least 30 minutes early because the wait is insane!,2,Spinach dip; wait,food; service,positive; negative
+670,Gotta try the Young Hickory!   Delicious,1,Young Hickory,food,positive
+673,The Mint Black Tea is outstanding!,1,Mint Black Tea,drinks,positive
+674,Getting the Bubbly Bitch wine again.,1,Bubbly Bitch wine,drinks,positive
+675,Only bad thing was the hair found on both of entrees. Food was good otherwise. Service is good.,3,hair found on both of entrees; food; service,food; food; service,negative; positive; positive
+676,"The restaurant is warm and inviting, the food is deliciously authentic and the bar selection is superb. Something for everyone on the menu!",3,restaurant; food; bar selection,ambience; food; drinks,positive; positive; positive
+677,The wifi is better than the food....,1,food,food,negative
+678,Waffle fries greater than(no symbols allowed in post lol) regular fries.,2,waffle fries; regular fries,food; food,positive; negative
+679,Two for twenty deal ends 05/21/2010,1,Two fer twenty deal,price,neutral
+682,$6.50 pitchers!,1,pitchers,price,positive
+683,"Great wings, 1/2 price after 10 PM.",2,wings; 1/2 price after 10 PM,food; price,positive; positive
+684,Love the green curry and mango tofu. Good for vegetarians.,3,green curry; mango tofu; vegetarian ,food; food; food,positive; positive; positive
+687,Perfect end to the day!   Mmmm frozen yogurt...,1,frozen yogurt,food,positive
+688,Apple spiced cheer is awesome for the 2016 holiday season!,1,Apple spiced cheer,drinks,positive
+690,Thursday - 1/2 price wine and fish & chip special,3,1/2 price wine; fish & chip special; 1/2 price,drinks; food; price,positive; positive; positive
+691,District has the best cold brew coffee in NOLA!!!,1,cold brew coffee,drinks,positive
+692,Be sure to try their new raspberry lemonade tea cooler! So refreshing!,1,raspberry lemonade tea cooler,drinks,positive
+693,"Lots of stuff for cheap. Not always the best quality, but it'll do.",2,cheap; quality,price; food,positive; negative
+695,Pizza after church. That's Italian.,1,Pizza,food,positive
+696,"Great restaurant, great food made fresh to order",1,food made fresh to order,food,positive
+698,Like it! Especially now...I feel so hungry..but how could cheese have bad tastes~,1,cheese,food,negative
+699,Don't forget they close at 7 pm ! And try the Roasted Potatoes !,1,Roasted Potatoes,food,positive
+700,Wing eating contest in full swing. Come on down and win a yelp tee shirt!,1,wing eating contest,anecdotes/miscellaneous,positive
+702,Wednesday night is half price wing night!,1,half price wings,price,positive
+704,This is a verry good and clean place.California burrito is great,2,clean place; California burrito,ambience; food,positive; positive
+705,Love their sushi burritos,1,sushi burritos,food,positive
+706,Nothing special. The hurricane I ordered was horrible and the place smells like a$$.,2,hurricane; smell,drinks; ambience,negative; negative
+708,Beautiful heirloom tomato salad - nicely done!,1,heirloom tomato salad,food,positive
+710,Online order to pickup in less than 5 minutes... Excellent!,1,online order to pickup,service,positive
+713,I always get great service even if they are out of what I want. Friendly and generous employees. This is my favorite DD!,1,service,service,positive
+715,Delicious hoagies!,1,hoagies,food,positive
+718,Try the Gruyere salad! Their Wednesday Fried Chicken must have!,2,Gruyere salad; Wednesday Fried Chicken,food; food,positive; positive
+719,Worst. Place. Ever. Owner is the worst. I wouldn't recommend it.,1,owner,anecdotes/miscellaneous,negative
+721,"Green chili blue cheese brats, chipotle cheddar brats, bull dogs and Saturdays special BBQ shredded beef and cheddar sub plus drink and chips 5.50!",6,Green chili blue cheese brats; chipotle cheddar brats; bull dogs; Saturdays special BBQ shredded beef and cheddar sub; drink; 5.50,food; food; food; food; drinks; price,neutral; neutral; neutral; neutral; neutral; neutral
+724,Very good service and food with lots of variety.  Kids eat for free if they are under 8.  Always a great experience.,4,service; food with lots of variety; kids eat for free if under 8; great experience,service; food; price; anecdotes/miscellaneous,positive; positive; positive; positive
+725,I eat very spicy food but I still find these hot peppers hot. Be wary!,1,hot peppers,food,negative
+726,"Oh, how I adore their great service!! They go above and beyond to make sure everything's perfect.",1,great service,service,positive
+729,Best bread and veggies in town,2,bread; veggies,food; food,positive; positive
+732,"Calling it ""ice cream"" is a stretch. ""Frozen treat"" is more accurate.",1,ice cream,food,negative
+733,"Great pizza,  great service, always a great choice",2,pizza; service,food; service,positive; positive
+736,The Bacara is elegant and recommend the food & wine,3,elegant; food; wine,ambience; food; drinks,positive; positive; positive
+740,"Staff is new, but the manager is competent so I'm sure the service will improve to match the quality of the food.",3,staff; manager; quality of the food,service; service; food,neutral; positive; positive
+741,"Great service, food, and cocktails.  Definitely worth every penny.",4,service; food; cocktails; worth every penny,service; food; drinks; price,positive; positive; positive; positive
+744,I know I'll regret these chili cheese fries!,1,chili cheese fries,food,negative
+745,Best prices for avocados! $2.99 for 4-5! :),1,prices for avocados,price,positive
+746,The blackberry wheat is a must try.,1,blackberry wheat,drinks,positive
+748,They were closed for no reason and the open sign was on,1,closed,service,negative
+749,Beautiful ambiance and food. Classic!,2,ambiance; food,ambience; food,positive; positive
+750,Love the garlic-teriyaki wings,1,garlic-teriyaki wings,food,positive
+751,Plate lunches are an enormous amount of food,1,plate lunches,food,positive
+758,Sooo small but the food is really good. And most importantly BYOB!,3,small; food; BYOB,ambience; food; drinks,negative; positive; positive
+759,try the French dip & French onion soup!,2,French dip; French onion soup,food; food,positive; positive
+762,Ugh this cocktail menu is crazy delicious looking.,1,cocktail menu,drinks,positive
+769,What a cool coffee pot!,1,coffee pot,drinks,positive
+773,Super loud location!,1,location,ambience,negative
+774,Great coffee!! Always fresh!!,1,coffee,drinks,positive
+776,Best worst place I have ever been too but order the root beer on tap worth.,1,root beer,drinks,positive
+779,Favorite-est guacamole!,1,guacamole,food,positive
+780,"Listen well to the specials, as there are always sooo many. And stop them once you hear your favorite!!",1,specials,food,positive
+782,Love their fire cracker roll!,1,fire cracker roll,food,positive
+783,"The Chopped Shrimp, Creole Rib, and Calypso Beef were three great tacos to start with on Taco Tuesday.",3,Chopped Shrimp; Creole Rib; Calypso Beef,food; food; food,positive; positive; positive
+784,What a wonderful little find for Caribbean cuisine!,1,Caribbean cuisine,food,positive
+786,"Diner was sold several years ago. Quality is trashed. Even the diner staples are bunk now! Please sell it back, or give it back! Help!",1,quality,food,negative
+788,Great atmosphere and the food is decent!,2,atmosphere; food,ambience; food,positive; neutral
+791,And there  food  again amazing thank u for a yummy meal...we will be back,1,food,food,positive
+792,"Great frozen foods, veggies taste like veggies!",2,frozen foods; veggies,food; food,positive; positive
+793,"Very friendly staff, super affordable.",2,staff; affordable,service; price,positive; positive
+796,Omg so delicious! I am addicted. Way better than any cucpcake I've ever eaten.,1,cucpcake,food,positive
+797,Great Indian and Thai food!,2,Indian; Thai,food; food,positive; positive
+798,Really cool light bulbs!,1,bulbs,ambience,positive
+803,Best family style Italian ever! I love the atmosphere .,2,family style Italian; atmosphere,food; ambience,positive; positive
+805,Once again disappointed by the lack of stock and selection. It seems that if you come for anything other than notions or fabric you may be SOL,1,stock and selection,anecdotes/miscellaneous,negative
+807,"I have yet to eat inside but their porch area was great. The service was super friendly, the margaritas are good but a tad overpriced, and their corn on the cob is fantastic.",5,porch area; service; margaritas; margaritas; corn on the cob,ambience; service; drinks; price; food,positive; positive; neutral; negative; positive
+808,worst service ever! wtf,1,service,service,negative
+810,Dont use self check out. The machines suck and you wait three times as long for CC payments!!!!!,1,machines,service,negative
+818,"Came for the Hop Slam... The wings are mediocre , but the bartendress was cool.",3,Hop Slam; wings; bartendress,drinks; food; service,neutral; negative; positive
+819,Great rooftop,1,rooftop,ambience,positive
+820,Mmmmmm....... Delicious soda!,1,soda,drinks,positive
+821,They have the best wings in the area! Highly recommend!,1,wings,food,positive
+822,I am a black lady. I ordered a White Lady. It was delicious.,1,White Lady,drinks,positive
+830,Ice coffee hazelnut with whip cream is the bomb,1,Ice coffee hazelnut with whip cream,drinks,positive
+831,"Classic neighborhood joint. Simple menu, small venue",2,simple menu; small venue,food; ambience,neutral; neutral
+836,Michelle was a great server for our large group of 20+,1,server,service,positive
+837,"Fast service...good beer.   Enjoyed the fried pickles, steak and shrimp, and carrot cake.",5,service; beer; fried pickles; steak and shrimp; carrot cake,service; drinks; food; food; food,positive; positive; positive; positive; positive
+840,Cute place for a date,1,place,ambience,positive
+842,Best Colombian empanadas!,1,Colombian empanadas,food,positive
+846,"Great Food!!!!  Always fresh.......Love, love, love the Talapia spring rolls!!!",2,Talapia spring rolls; fresh,food; food,positive; positive
+847,The lobster roll is delicious!,1,lobster roll,food,positive
+848,Great sweet tea.,1,sweet tea,drinks,positive
+849,"Perfect place for a romantic dinner, first date and girls night out! Amazing atmosphere with award winning wine, doesn't get much better than this! Oh and a few blocks from the ocean!",2,amazing atmosphere; wine,ambience; drinks,positive; positive
+850,Good food and service. Great for family dinner!,2,food; service,food; service,positive; positive
+852,Came during peak lunch- around 12:30. Waited ten minutes to be acknowledged! Food is great but be prepared to possibly be ignored for a little while.,2,waited; food,service; food,negative; positive
+853,Lovely outdoor seating area. Perfect for a nice evening. Friendly staff.,2,outdoor seating area; staff,ambience; service,positive; positive
+854,It's pretty good I think they could work on customer service and up selling! Down town Boise is where people want to spend money help us do that!! No polenta fries really it takes 10 mins to make and it is prime appetizer time!!,3,customer service; up selling; polenta fries,service; service; food,negative; negative; negative
+859,Great Happy hour. Half price draughts and hummus. The Charleville is excellent,4,Happy hour; Half price draughts; hummus; Charleville,drinks; drinks; food; drinks,positive; positive; positive; positive
+863,I wouldn't recommend for a big event. They are not very organized.,1,organized,service,negative
+867,My Mediterranean pizza was fantastic. My delivery driver did a high kick. Best customer service experience ever!,3,Mediterranean pizza; delivery driver; customer service,food; service; service,positive; positive; positive
+868,Lunch special yumminess.,1,lunch special,food,positive
+869,Delicious and quick.,2,delicious; quick,food; service,positive; positive
+873,Great food. Great service.,2,food; service,food; service,positive; positive
+874,Nice little patio on the side! Cinco de Mayo celebration to tonight with drink specials and music!,2,patio; drink specials,ambience; drinks,positive; positive
+875,Great shrimp very fresh and tasty.wings are also very good,2,shrimp; wings,food; food,positive; positive
+876,Their homemade 'Fireball' is disgusting and nothing like regular Fireball. Definitely doesn't go down smoothly!,1,homemade 'Fireball',drinks,negative
+878,Great appetizers,1,appetizers,food,positive
+879,Be prepared for a LONG wait for your food!!,1,wait,service,negative
+880,"They have a little to-go area with sandwiches, salads and killer hot soups! Organic yumness!",4,sandwiches; salads; hot soups; organic,food; food; food; food,positive; positive; positive; positive
+881,Selling Circle City Sweets and Best Chocolate in Town!,2,Circle City Sweets; Best Chocolate,food; food,positive; positive
+884,Latte passes the test! Great English breakfast.,2,Latte; English breakfast,drinks; food,positive; positive
+885,"Excellent sushi and sashimi, great selection of beer.",2,sushi and sashimi; selection of beer,food; drinks,positive; positive
+888,Great food & lovely service! Had the lentil soup & fried spring rolls. Very yummy!,2,food; service,food; service,positive; positive
+889,Excellent iced coffee - better than Starbucks!,1,iced coffee,drinks,positive
+890,Busy in the morning...but Duh! It's Starbucks!,1,busy,service,neutral
+896,Yum yum yum Cypress Breakfast here I come!,1,Cypress Breakfast,food,positive
+897,"Don't come after noon if you want a bagel. Totally sold out, and none until tomorrow. #winning",1,bagel,food,negative
+899,We went there yesterday and I ended up with bad food poisoning today. :(,1,food poisoning,food,negative
+900,Try the oatmeal cookie. The plain one. Without raisins. Maybe try two. Or three. They taste just like the oatmeal cookie part of Little Debbie's oatmeal creme snacks. Except about a thousand times better.,1,oatmeal cookie,food,positive
+902,"Taco Tuesday rocks!  Burrito Thursday good too. Love the chix taco, queso and chips.",4,Taco Tuesday; Burrito Thursday; chix taco; queso and chips,food; food; food; food,positive; positive; positive; positive
+903,"Great hoagies... Pricy, but worth it.",2,hoagies; price,food; price,positive; negative
+904,They've got Kenny G's version of My Heart Will Go On on repeat today. Still the best sushi in town!,2,sushi,food,positive
+907,"Awesome atmosphere, delicious drink!",2,atmosphere; drink,ambience; drinks,positive; positive
+909,Londonport Roast Beef Sub with Horseradish Cheese is the bomb.,1,Londonport Roast Beef Sub with Horseradish Cheese,food,positive
+912,Sign up for their newsletter and get a free pizza on your birthday!,1,free pizza,food,positive
+913,"Amazing food, service, atmosphere. Electric crowd, but nice.",4,food; service; atmosphere; electric crowd,food; service; ambience; ambience,positive; positive; positive; neutral
+914,I got a sesame chicken salad! Oh it was supremely delicious! The price was a little bit too much for a small amount of salad. The waitness was friendly to us!,3,sesame chicken salad; price; waitness,food; price; service,positive; negative; positive
+916,I came back. I got the Rutabega Fondue. It was the best thing I've ever eaten.,1,Rutabega Fondue,food,positive
+917,Chapati has been given #9 in the #YelpTop50!  I am very happy to see the continued success of this restaurant.  It deserves all the accolades it gets!,1,Chapati,food,positive
+919,That salmon bite was amazing along with my martini,2,salmon bite; martini,food; drinks,positive; positive
+920,Beautiful patio!,1,patio,ambience,positive
+922,Always get the shrimp and lobster dumplings!,1,shrimp and lobster dumplings,food,positive
+923,"Prime rib is delicious but is served a little cold
+
+Service is perfect",3,prime rib; served,food; service,positive; positive
+924,Good seafood stew.,1,seafood stew,food,positive
+926,Tom yum soup with tofu is amazing!,1,Tom yum soup with tofu,food,positive
+929,Good selection on the buffet,1,buffet,food,positive
+931,"Cheese curds!  However, I recommend them for a party of 3 or more. There's just so many!",2,cheese curds; so many,food; food,positive; neutral
+934,Cute inside,1,inside,ambience,positive
+936,"It wasn't bad, but for original cheesesteak it was lacking.",1,original cheesesteak,food,negative
+939,Moe's Monday is a great value!,1,Moe's Monday,price,positive
+941,Omelettes are great; also liked spicy tuna sandwich,2,omelettes; spicy tuna sandwich,food; food,positive; positive
+942,$5 minimum purchase for WiFi access. Meanwhile a large iced coffee $3.50.,2,WiFi access; large iced coffee,price; drinks,negative; neutral
+946,Use the phone app and preload for ease of payment.,1,phone app,service,positive
+948,Go during the weekday to avoid long lines!,1,long lines,service,negative
+949,Ask for back section not as loud,1,back section,ambience,positive
+950,Best biscuits I've ever had. Highly recommended.,1,biscuits,food,positive
+956,I loved the chicken Caesar salad and the Flat Tire draft (which was free thanks to a Yelp check-in offer). The waiter was incredibly nice but took a long time to take our order and bring the check once requested.,4,chicken Caesar salad; Flat Tire draft; waiter; long time,food; drinks; service; service,positive; positive; positive; negative
+957,Excellent cafe blanco aka bailys and patron cafe made by our bartender Heather!!,2,cafe blanco; bartender,drinks; service,positive; positive
+959,Servings are generous for a tapas place. 2 orders per person is quite filling,1,servings,food,positive
+961,"OMahGawd. Cinnamon Bun French Toast. So wrong, yet so right.",1,Cinnamon Bun French Toast,food,positive
+962,Excellent service and food !,2,service; food,service; food,positive; positive
+963,Live music and dancing on the deck on Sunday afternoon,1,live music and dancing,ambience,positive
+964,My favorite happy hour place! Hands down :),1,happy hour,drinks,positive
+966,Get a churro for dessert!,1,churro,food,positive
+968,"The hummus appetizer is HUGE, and the falafel sandwich is what dreams are made of. Good ambiance here, too.",3,hummus appetizer; falafel sandwich; ambiance,food; food; ambience,positive; positive; positive
+970,Best tasting windows in Philly!,1,windows,food,positive
+973,I can honestly say I've never had such disgusting overly sweet bar food.,1,bar food,food,negative
+975,Get a pitcher of a Margarita. It's worth it.,1,pitcher of a Margarita,drinks,positive
+976,It's raining cats and dogs but we are dry on the patio!,1,patio,ambience,positive
+977,Best coffee on campus: hands down.,1,coffee,drinks,positive
+978,"The stromboli's with brown gravy, mushrooms, onion, and pickles are legendary here.  #The317Live",1,"stromboli with brown gravy, mushrooms, onion, and pickles",food,positive
+980,Reopened with new ownership. Pepsi products!,2,new ownership; Pepsi products,anecdotes/miscellaneous; drinks,neutral; positive
+981,Nice Industrial looking with Unique dishes. Red Curry Goat Empanada,2,Industrial looking; Unique dishes,ambience; food,positive; positive
+987,OMG the green apple is so yummy,1,green apple,food,positive
+992,Best breakfast burritos in town.....period! Machaca is best I have had.,2,breakfast burritos; Machaca,food; food,positive; positive
+994,Come on Fridays for full pizzas! Lunch and dinner.,1,full pizzas,food,positive
+995,"What Ntown needs is an alternative to Starbucks. Comfortable cafe, but with good coffee.",2,comfortable cafe; good coffee,ambience; food,positive; positive
+996,Fatty tuna special is divine!,1,Fatty tuna special,food,positive
+998,I really like some healthier fast options.,1,healthier fast options,food,positive
+999,Wednesday is half price wine!,2,half price wine; half price,drinks; price,positive; positive
+1000,Bad customer service.,1,customer service,service,negative
+1003,"New location at the TRD Wreckhouse, bring your own chairs seats are limited. :)",2,new location; limited,ambience; service,neutral; negative
+1004,Make sure to try the blue berry crepes!,1,blue berry crepes,food,positive
+1005,It's fairly small so get there early on the weekends. And try their iced chai!,2,small; iced chai,ambience; drinks,neutral; positive
+1006,The food was great! Best biscuits ever! True southern comfort food.,2,biscuits; food,food; food,positive; positive
+1007,"Smells like amazing coffee inside, cutest coffee cafe with attractive seating. Not good for a big group though",3,coffee; attractive seating; big group,drinks; ambience; service,positive; positive; negative
+1008,Pretty cupcakes,1,cupcakes,food,positive
+1009,Larry is an awesome waiter. And the meatballs are the rage.,2,waiter; meatballs,service; food,positive; positive
+1011,You've got to try the amber's sap vampire ale. It's amazing.,1,amber's sap vampire ale,drinks,positive
+1017,The drinks are reasonably priced (love the Bahama Mama!) Kirby was an awesome waitress. Thanks for a great experience!,3,drinks; priced; waitress,drinks; price; service,positive; positive; positive
+1019,Love the atmosphere in this place! Great beer great drinks great people!,3,atmosphere; beer; drinks,ambience; drinks; drinks,positive; positive; positive
+1020,Friendly barista. Local! Good stop on foot.,3,barista; local; good stop,service; anecdotes/miscellaneous; anecdotes/miscellaneous,positive; positive; positive
+1023,Order the Tachos...don't ask questions!,1,Tachos,food,positive
+1024,Great place. Loads of fun,1,place,ambience,positive
+1027,Kamakzee Roll... Boom,1,Kamakzee Roll,food,positive
+1028,Great flavors,1,flavors,food,positive
+1029,Bad start. Rude staff. Hope it gets better.,1,staff,service,negative
+1031,Kani Kamakazi: an afternoon delight.,1,Kani Kamakazi,drinks,positive
+1033,Great food great people... Pizza is one of the best,3,food; people; Pizza,food; service; food,positive; positive; positive
+1034,Get the Al Pastor!!!,1,Al Pastor,food,positive
+1038,2nd time here and I'm still not disappointed!  Love the charbroiled oysters!,1,charbroiled oysters,food,positive
+1039,Lunch with friends. Crowded!,2,crowded,ambience,neutral
+1040,"The manager is soooo kind, and awesome with making the salads....get him to make yours if you can!",2,manager; salads,service; food,positive; positive
+1042,Don't use their mobile APP I was told it doesn't work at this restaurant by one of their managers after I placed an order and called them,1,mobile APP,service,negative
+1045,The soup was not hot before  put in bean sprouts.,1,soup,food,negative
+1046,"The potato skins with BBQ are amazing. And the drink specials and bartenders are always a ""10.""",3,potato skins with BBQ; drink specials; bartenders,food; drinks; service,positive; positive; positive
+1049,Always trouble redeeming free shot,1,free shot,service,negative
+1052,"Love the croissants when they are heated up. Tastes freshly baked (even though they are clearly not). Next time, try your pastry warmed up!",1,croissants,food,positive
+1054,"I got the last Mad Hopper on cask! Good for me, bad for you...",1,Mad Hopper on cask,drinks,positive
+1055,Unique in a good way. Service was excellent. Food tasty. Interesting experience,3,Service; Food,service; food,positive; positive
+1057,"Chili dog + extra onions, habanero sauce and jalepenos = rectal rocket fuel. But worth it.",1,chili dog,food,positive
+1058,Good service but i feel like the spinach dip has been minimized.,2,service; spinach dip,service; food,positive; negative
+1059,Best boba in town!,1,boba,drinks,positive
+1060,"Once again out of main dish I like and out of iced tea, 0-2 this week.",2,main dish; iced tea,food; drinks,negative; negative
+1062,Lunch seems to be busier than dinner.,1,lunch,service,neutral
+1064,Husband enjoys strawberry shake but my Peanut Butter shake not so much. Mug n Bun has spoiled me. Good but not great.,2,strawberry shake; Peanut Butter shake,drinks; drinks,positive; neutral
+1065,Just went there recently and it was so good! Delicious pork!,1,pork,food,positive
+1067,Great and friendly service.,1,service,service,positive
+1068,"The drinks are a must! Great little patio, overall limited seating. Come early for great street parking and choice seats at the bar. Tip your artist!",4,drinks; patio; limited seating,drinks; ambience; ambience,positive; positive; negative
+1069,Top 3 cheesesteak easy. Go here.,1,cheesesteak,food,positive
+1070,"Delicious simple and cheap tacos! Even cheaper on Wednesdays! $1.75 for most or $2.25 for steak or fish (see pic). Totally fulfills my taco cravings since moving from Texas, excited to try their tortas and breakfast soon!",3,tacos; cheap tacos,food; price,positive; positive
+1073,Amazing drinks! Live music. Not fancy but they have great food.,4,drinks; live music; not fancy; food,drinks; ambience ; ambience; food,positive; neutral; negative; positive
+1074,The milkshakes here are the best I've ever had,1,milkshakes,drinks,positive
+1076,"it's on the water, the owners are terrific, accommodating, and excellent cooks.",3, on the water; owners; cooks,ambience; service; food,positive; positive; positive
+1079,"Ask for your food in separate containers or they will mix them together, double check it before you leave",1,food,service,negative
+1082,They finally moved to a much larger space!,1,larger space,ambience,positive
+1084,Big selection of breakfast and lunch options. Straight forward.  Good food with good prices. Service is consistent and friendly,4,breakfast and lunch options; food; prices; service,food; food; price; service,positive; positive; positive; positive
+1085,No longer have delivery ... bummer.,1,delivery,service,negative
+1086,Yum! Sunday is Lasagna nigjt!,1,Lasagna,food,positive
+1091,Unexpectedly delicious! A west side gem,1,delicious,food,positive
+1095,The shrimp on a bun comes loaded with shrimp. Loaded. I am happy.,1,shrimp on a bun,food,positive
+1097,"This is a mediocre Hooters. Everything is below par - food, drinks, service all.",3,food; drinks; service,food; drinks; service,negative; negative; negative
+1099,Service and food was fantastic. The banana pie is amazing. Very attentive and friendly staff.,4,service; food; banana pie; staff,service; food; food; service,positive; positive; positive; positive
+1100,"Meatballs and a great patio, that's Amore!",2,Meatballs; patio,food; ambience,positive; positive
+1103,Best food in St. Louis. Sauce will become a national sensation.,2,food; sauce,food; food,positive; positive
+1104,You can only get dim sum until 3:00 pm,1,dim sum,food,neutral
+1105,The homemade yogurt is very good! Top it with fresh blueberries or honey and it is very very good!,3,homemade yogurt; fresh blueberries; honey,food; food; food,positive; positive; positive
+1107,No AC here but taking out.,2,No AC,ambience,negative
+1110,yummy yummy bier!!,1,bier,drinks,positive
+1114,Great ribs...mmmmm,1,ribs,food,positive
+1115,All I have to say. Love this place!!,1,place,ambience,positive
+1117,Amazing pizza. Love the bar. Super cute but a little pricey!!!,4,pizza; bar; pricey,food; ambience; price,positive; positive; negative
+1118,Good stuff. Had the seafood stew and fried crawfish tails.,2,seafood stew; fried crawfish tails,food; food,positive; positive
+1119,Buy 3 get 3 free muffins on Tuesdays!,1,muffins,price,positive
+1121,Carnitas burrito with guacamole. I'll stick to carne asada next time.,2,carnitas burrito; carne asada,food; food,negative; positive
+1124,"save your time n $$, go elsewhere, you not missing much. soup kitchen probably has taster dishes!",2,dishes,food,negative
+1127,Good atmosphere.,1,atmosphere,ambience,positive
+1128,Free wifi in the lobby.,1,free wifi,service,positive
+1129,There were mice nesting under the kitchen sink,1,mice,anecdotes/miscellaneous,negative
+1130,Great Tex-Mex food!!,1,Tex-Mex food,food,positive
+1133,"What happened to the Wedding Soup Meatballs? What's in the Wedding Soup, now, are not: round and not Italian in flavor.",1,Wedding Soup Meatballs,food,negative
+1134,Freaky fresh ;),1,freshness,food,positive
+1135,Delicious and many veggie options :),1,veggie,food,positive
+1137,Go for the guac! It's great!,1,guac,food,positive
+1140,Don't come here Hangry! Still waiting on food to come out n our drink glasses are empty.....ughhhhh.....,2,waiting; empty,service; service,negative; negative
+1141,they can add an espresso shot to anything!,1,espresso shot,drinks,positive
+1145,Best buffalo wings!,1,buffalo wings,food,positive
+1146,Can always count on taco day if nothing else and by nothing else I mean BK!,1,taco day,food,positive
+1148,"Very good crab cakes, and I even liked the eggplant!",2,crab cakes; eggplant,food; food,positive; positive
+1150,Crispy artichokes were super fab!!!!,1,crispy artichokes,food,positive
+1153,Every food item is great!,1,food item,food,positive
+1156,Large falafel sandwich on white. Little bit spicy. Perfect every time!,2,falafel sandwich; spicy,food; food,positive; positive
+1158,So busy!! Make a reservation,1,busy,service,negative
+1159,What great sushi!!,1,sushi,food,positive
+1160,Under new ownership as of November 30th! It's like a whole new restaurant. Just opened for breakfast every day this week (1.10.16) Offering the freshest corned beef.,3,new ownership; freshest corned beef; breakfast every day,anecdotes/miscellaneous; food; service,positive; positive; positive
+1162,Really solid craft beer selection.,1,craft beer selection,drinks,positive
+1164,"Wicked jazzy live music!  Lauren Hill, Sublime, need I say more?",1,live music,ambience,positive
+1165,We come for the butter chicken wrap.  soooo good.,1,butter chicken wrap,food,positive
+1166,The sundaes are big and expensive.,2,sundaes; expensive,food; price,neutral; negative
+1169,Very friendly staff and professional! And cheap,2,staff; cheap,service; price,positive; positive
+1171,"Excellent service, menu had plenty of options, great food, reasonable prices. 
+We stopped in on a whim. Had the best server, superb service that we have searched for all over St Pete. 
+We will be back soon.",5,service; menu ; food; prices,service; food; food; price,positive; positive; positive; positive
+1173,I come here often. Service is usually ok. I usually order from the McValue Menu.,2,Service; McValue,service; price,neutral; neutral
+1174,Friendly staff!!! Clean!!!,2,staff; clean,service; ambience,positive; positive
+1175,Try the Italian Lemon Cake !,1,Italian Lemon Cake,food,positive
+1178,Looking forward to some good BBQ and I found IT!!!!!,1,BBQ,food,positive
+1180,"So very slow here,  no matter what time of day.",1,slow,service,negative
+1183,"Good clean Mexican food. May suffer when really busy. But, that is the exception. Order the shrimp fajitas and you will love this offering.",3,Mexican food; busy; shrimp fajitas,food; service; food,positive; negative; positive
+1184,"chocolate croissants are good (and sell out quick), but the ham & cheese croissants are GREAT!",2,chocolate croissants; ham & cheese croissants,food; food,positive; positive
+1186,Long lines suck,1,long lines,service,negative
+1193,The owners are friendly and are more than happy to help you with the menu selection!,2,owners; help,service; service,positive; positive
+1194,Diarrhea Diner is what we call it! Enough said.,1,Diner,food,negative
+1196,They always want to sit everyone by the windows where the rest of the restaurant is usually pretty empty.  Kinda annoying. But I've never complained.,2,sit; empty,service; ambience,negative; neutral
+1201,Great authentic flavors.,1,authentic flavors,food,positive
+1202,Their renovations are spectacular. New patio out front looks very promising.,2,renovations; new patio,ambience; ambience,positive; positive
+1203,To go orders are well made.,1,to go orders,service,positive
+1205,It is cheap and good.  I dig it!,2,cheap; good,price; food,positive; positive
+1206,They have mini apple cider bottles with mini cups for the little ones!!!!!,1,mini apple cider bottles,drinks,positive
+1207,Pricey...,1,price,price,negative
+1211,Don't try the Peppermint Chocolate Chip Milk Shake. Just stick with the Strawberry.,2,Peppermint Chocolate Chip Milk Shake; Strawberry,drinks; drinks,negative; positive
+1213,I can't figure out why people like this place. Service sucked. Dishes were dirty. Portions were small. The guac was the only good part.,4,service; dishes; portions; guac,service; food; food; food,negative; negative; negative; positive
+1214,Rare roast beef so good!,1,rare roast beef,food,positive
+1215,"Friendly service. Fair prices, they don't try to sell you things you don't need.",2,Friendly service; Fair prices,service; price,positive; positive
+1216,"Always a tasty breakfast!
+Fast and good. 
+Viva vivs!!",2,breakfast,food,positive
+1217,Gnocchi very light. Almond chiffon cake light as well.,2,gnocchi; almond chiffon cake,food; food,positive; positive
+1219,Try the j dawg!,1,j dawg,food,positive
+1223,Get the pizza. Thank me later.,1,pizza,food,positive
+1224,great customer service.,1,customer service,service,positive
+1226,Lemongrass tofu bun...again.,1,Lemongrass tofu bun,food,positive
+1227,"Great, friendly service! Accommodated us lickity split! Price was exactly as quoted--super affordable!!",3,friendly service; accommodated ; price,service; service; price,positive; positive; positive
+1230,Lots to choose from if you don't mind fighting the crowds and foreign people.,1,crowds,ambience,negative
+1233,Best chicken ever. My kids love it and they're hard to impress.,1,chicken,food,positive
+1234,Love the pizza- my favorite on this earth!,1,pizza,food,positive
+1236,Ask for Anson. He's supremely talented!,1,Anson,service,positive
+1238,The bbq wings are the best!,1,bbq wings,food,positive
+1240,Yum sushi. Not crowded for lunch.,2,sushi; Not crowded,food; ambience,positive; positive
+1241,Ahhhhh... Beer... So good!,1,Beer,drinks,positive
+1242,Great variety of food,1,food,food,positive
+1245,This place is amazing! Great sevice and their salad and pizza WOW!,3,service; salad; pizza,service; food; food,positive; positive; positive
+1246,Just simply try everything!! So good. Flavour explosions,1,everything,food,positive
+1250,Great burgers and frys!,2,burgers; frys,food; food,positive; positive
+1254,Great Sunday food specials for the football game.,1,Sunday food specials,food,positive
+1255,The lapsang souchong butterfly tea is delicate and smoky. Delicious.,1,lapsang souchong butterfly tea,drinks,positive
+1256,Don't waste your time. Tried it 5 times had issues each. Undercooked chicken! Marker on food!! No dressing made?!? And other problems. Go to lower state.,2,undercooked chicken; no dressing made,food; food,negative; negative
+1258,They deliver and have a huge delivery radius (I believe at no charge).,2,delivery,price,positive
+1259,Good lunch specials,1,lunch specials,food,positive
+1260,Outstanding as always!  Epic Food and Service,2,Food; Service,food; service,positive; positive
+1262,Staff is too slow in the morning,1,staff,service,negative
+1263,local divey bar. good prices and cute dogs !,2,good prices; cute dogs,price; anecdotes/miscellaneous,positive; positive
+1267,Best charburgers are good and chicken tacos have good quality chicken. They will do lettuce wrapped chars as well if requested.,3,charburgers; chicken tacos; lettuce wrapped chars,food; food; food,positive; positive; neutral
+1268,Their dark chocolate covered pretzels are pretty good,1,dark chocolate covered pretzels,food,positive
+1270,Yummmmmmy pizza.,1,pizza,food,positive
+1272,Nice place to wait on the snowstorm of the year.,1,place,ambience,positive
+1273,Great dark roast drip coffee.,1,dark roast drip coffee,drinks,positive
+1274,"Try the agua frescas, they're fantastic!",1,agua frescas,drinks,positive
+1276,Best tamales I have ever tasted!,1,tamales,food,positive
+1277,Heaven!! Ice cream drinks and I'm not in Wisconsin,1,ice cream drinks,drinks,positive
+1283,Great views!!!!!,1,views,ambience,positive
+1284,My favorite burger in Reno.,1,burger,food,positive
+1290,Margherita pizza was awesome and I got a free beer for checking in ...,2,Margherita pizza; beer,food; drinks,positive; positive
+1292,"If takeout, it takes them a while to get it all together.",1,takeout,service,negative
+1293,The whole place smells of piss,1,smell,ambience,negative
+1294,Hot Fusion bun combos pictured. Pork and chive dumplings are homemade and delicious!,1,Pork and chive dumplings,food,positive
+1295,Yum tried the chicken strips well worth it,1,chicken strips,food,positive
+1298,Our favorite local Mexican place. Great staff amazing food and yummy desserts!!!,3,staff; food; desserts,service; food; food,positive; positive; positive
+1300,Over 20 people at the check-out line and just one cashier. : S,1,one cashier,service,negative
+1305,"Taco's were ok, not much to them. Nothing special...  And they messed up our order..",2,Taco's; order,food; service,neutral; negative
+1306,"Quiet atmosphere, great food.  Service was good.  Yum",3,Quiet atmosphere; great food; Service,ambience; food; service,positive; positive; positive
+1308,Very clean facilities and the staff is very polite!,2,clean facilities; staff,ambience; service,positive; positive
+1309,Love its sweet potato fires and the Frossie!,2,sweet potato fires; the Frossie,food; drinks,positive; positive
+1311,Rip off. They fucked up my order and their prices are too high.,2,order; prices,service; price,negative; negative
+1312,Amazing steak tacos!! Very authentic & reasonably priced!! Can't wait to come back!!,2,steak tacos; reasonably priced,food; price,positive; positive
+1313,Don't let the high traffic of this location scare you away. This is as efficient of a McD's as exists for breakfast. Decent quality to boot.,2,efficient; quality,service; food,positive; positive
+1314,"This spot has the best burgers in downtown Clearwater (or all d Clearwater proper for that matter) 
+
+Try the Balkan or the REIDO burger. Crazy good yo!",1,burgers,food,positive
+1315,The best escarole soup!,1,escarole soup,food,positive
+1318,Always a good place to go for some great Pho...,1,Pho,food,positive
+1319,Chai latte is virtually caffeine free,1,chai latte,drinks,positive
+1320,"Snack pack is the best deal ever, comes with fries and drink (tasty root beer)",3,Snack pack,price,positive
+1321,Dessert: bread pudding w/whiskey sauce.. So dreamy! Looks Crazy.. Tastes amazing!,1,bread pudding with whiskey sauce,food,positive
+1322,This place is INSANE on a Sunday afternoon. And uncomfortably hot.,2,place; hot,ambience; ambience,positive; negative
+1328,Awesome bartender.,1,bartender,service,positive
+1334,best red juice!!,1,red juice,drinks,positive
+1338,The menu they have online has not been updated in awhile and they no longer offer some of the items listed (e.g. veggie burgers),1,menu,food,negative
+1340,Pizza & baked ziti heaven,2,Pizza; baked ziti,food; food,positive; positive
+1342,Great selection of sauces and flavors for the wings.,1,wings,food,positive
+1345,The shrimp and grits are the bomb.,1,shrimp and grits,food,positive
+1348,I guess the mango sticky rice is only good in the summertime because that's when the mango is more sweet .,2,mango sticky rice; mango,food; food,positive; neutral
+1349,Amazing pizza - and they deliver until 3pm!,2,pizza; deliver,food; service,positive; positive
+1353,"Walked in, reeked badly. Smelled men's bathrooms that smelled better. Am I going to eat raw fish in a place that smells bad when I walk in?",1,smells bad,ambience,negative
+1361,Typical little Caesars. The staff is always fun.,1,staff,service,positive
+1363,"This is a bit of a backhanded compliment, but here we go: the quality of the food surprised me. Order food! It's good!",1,food,food,positive
+1364,"Good cheap lunch with soup, crispy roll,  and ur entree... I love their red curry and masaman curry..8 dollars and it's huge",3,8 dollars; red curry and masaman curry; crispy roll,price; food; food,positive; positive; positive
+1368,Sangria in a Stella glass?  Stella in beer glass?   Very odd!!!!,2,Sangria; Stella,drinks; drinks,negative; negative
+1371,I really like their tea fruit drinks and frozen sorbets. Very refreshing.,2,tea fruit drinks; frozen sorbets,drinks; drinks,positive; positive
+1373,Always been impressed with their displays.,1,displays,ambience,positive
+1383,We experienced the same type of service from the white security guards at delilahs their all racist!,1,security guards,service,negative
+1384,"nice, friendly staff! Reasonable price for the service.",2,staff; price,service; price,positive; positive
+1387,Ham and Swiss crepe with garlic sauce is awesome!,1,Ham and Swiss crepe with garlic sauce,food,positive
+1391,Pathetic place. Workers are terrible and the floor and counters are dirty. No draft A&W.,3,workers; floor and counters; draft A&W,service; ambience; drinks,negative; negative; negative
+1393,"For the price, the food is REALLY good!",2,price; food,price; food,neutral; positive
+1394,Takes forever to get beer and it's mediocre at best,2,beer; Takes forever,drinks; service,negative; negative
+1395,"Best Thai in STL, hands down. My new favorite dish, lemongrass salad with sticky rice.",2,Thai; lemongrass salad with sticky rice,food; food,positive; positive
+1396,Great chicken salad! Eat outside,2,chicken salad; outside,food; ambience,positive; positive
+1397,Great Service and clean,2,Service; clean,service; ambience,positive; positive
+1402,Everything is made to order so prepare to wait a little bit,1,wait,service,neutral
+1406,Great day to be on the patio for brunch.,1,patio,ambience,positive
+1411,"This is my favorite spot to get a chai latte. They're very child friendly, and people friendly. The barristas are knowledgeable and courteous and efficient.",4,chai latte; barristas; child friendly; people friendly,drinks; service; ambience; ambience,positive; positive; positive; positive
+1412,Omg- waiter just came by after an hour and said our food order was NEVER put in!,2,order,service,negative
+1419,The pizza is just okay.,1,pizza,food,neutral
+1420,Can't beat the price.,1,price,price,positive
+1421,A must have is the artichoke hummus!,1,artichoke hummus,food,positive
+1423,"Bellini~Tini, shrimp pancetta, Jenny's spinach salad, perfect light bites for a sunny Friday happy hour.",4,shrimp pancetta; Jenny's spinach salad; light bites; Bellini~Tini,food; food; food; drinks,positive; positive; positive; positive
+1425,Potato is too bready. Go with something else.,1,potato,food,negative
+1426,Chocolate croissants are pretty good... Add some good coffee...even better,2,Chocolate croissants; coffee,food; drinks,positive; positive
+1427,Freshly made cannollis.,1,cannollis,food,positive
+1429,WAY too salty!,1,salty,food,negative
+1431,Fresh. Perfect ratios. Delicious!!!,3,fresh; perfect ratios; delicious,food; food; food,positive; positive; positive
+1438,Do great work however it is pricey.,1,pricey,price,negative
+1440,They do everything well..such a struggle choose just one or two to eat...,1,everything,food,positive
+1441,Great beer! average food..,2,beer; food,drinks; food,positive; neutral
+1442,Great wings everytime. 35 cents on Sunday,2,wings; 35 cents,food; price,positive; positive
+1445,I always get the summer rolls!,1,summer rolls,food,positive
+1446,Happy Hour was great! Nice small plates - sweet potato manchego croquettes delicious as were the grilled shrimp. Service was very friendly and accommodating!,5,Happy Hour; small plates; sweet potato manchego croquettes; grilled shrimp; Service,drinks; food; food; food; service,positive; positive; positive; positive; positive
+1448,The lasagna is good,1,lasagna,food,positive
+1450,"Wine, tapas, mimisas, its all good",3,Wine; tapas; mimisas,drinks; food; drinks,positive; positive; positive
+1451,Best croissants in philadelphia.,1,croissants,food,positive
+1452,"So yummy! They will make anything you want, even if it isn't on the menu.",2,food; anything,food; service,positive; positive
+1453,Awesome beer selection.,1,beer,drinks,positive
+1454,Onion rings are dope!,1,onion rings,food,positive
+1456,"Great wings, perfect crispy and juicy ratio.",1,wings,food,positive
+1457,Authentic chinese food found here.   Ask for the Chinese menu.,1,Authentic chinese food,food,positive
+1459,"They have ayran, ouzo, and iskender!!! 3 things I deem necessary at a Turkish Mediterranean or Greek place",3,ayran; ouzo; iskender,drinks; drinks; food,positive; positive; positive
+1463,The Chocolate Stampede is big enough for four!,1,Chocolate Stampede,food,positive
+1464,Panang curry ftw,1,Panang curry,food,positive
+1469,Charbroiled oysters are truly amazing. ...likely the best I've ever had. ..and I've had them all over the world!,1,charbroiled oysters,food,positive
+1470,Beautiful new spot in Fox Park,1,new spot,ambience,positive
+1471,No reservations but you can call ahead same day.,1,reservations,service,neutral
+1477,"A bit slow, but oh so worth it.  The food is awesome!",2,slow; food,service; food,negative; positive
+1478,Single origin single shot cappuccino. Delish.,1,single origin single shot cappuccino,drinks,positive
+1479,The open face sandwich was very good. A good balance of protein and carbs.,1,open face sandwich,food,positive
+1480,"The people  who work the gate here are very nice, always have a smile on their face.",1,people,service,positive
+1481,Brand new breakfast stop!   Welcome to the 'hood!!!,1,breakfast,food,positive
+1484,Good bbq. Not the best I've had but I am a self proclaimed expert! Peach cobbler was a little gummy. Price is fair for the amout of food. Decor is cool!,4,bbq; peach cobbler; price; decor,food; food; price; ambience,positive; negative; positive; positive
+1485,They'll be doin their crepe thing at Shakespeare at The yelp!,1,crepe,food,positive
+1486,"Really nice staff, accommodating.",1,staff,service,positive
+1487,"They have standard flavours like vanilla,  chocolate and strawberry but mix the premium flavours,  like espresso,  german chocolate,  blackberry,  amaretto,  etc for you per order.",2,standard flavours; premium flavours,food; food,neutral; positive
+1488,Try the homemade corned beef hash!,1,corned beef hash,food,positive
+1489,"Check out the old school (circa 1940s?) aerial photo of the surrounding area, a cool artifact from the history of the area.  It's hung in their dining room.",1,old school aerial photo,ambience,positive
+1492,This place has excellent views.,1,views,ambience,positive
+1495,Love this venue and staff. Top of the line inventory too!,2,staff; venue,service; ambience,positive; positive
+1496,Parking for cars is up to $13. And they charge the same for a motorcycle?!,1,parking,price,negative
+1498,They now have RAMEN!!! Bonus to an already great menu.,2,RAMEN,food,positive
